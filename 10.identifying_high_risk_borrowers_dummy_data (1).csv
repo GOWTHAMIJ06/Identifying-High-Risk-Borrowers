@@ -1,0 +1,1001 @@
+borrower_age,income_bracket,marital_status,job_type,education_level,ethnicity,gender,country,loan_amount,credit_score,repayment_history,debt_to_income_ratio,borrower_risk
+56,???,Single,Self-employed,Bachelor,Black,Male,USA,477322.3674,300.6974423,63.59395767,0.284215366,Low
+69,High,Widowed,Unemployed,Bachelor,Other,Male,USA,459342.2798,791.7039589,87.49876881,93.08981444,Low
+46,High,Married,Full-time,PhD,Black,Female,Canada,24449.258,586.9414908,8.273830349,11.09202309,Medium
+32,Low,Married,???,Master,Asian,Female,Australia,170067.6978,444.4683544,91.50833334,40.6249096,Medium
+60,High,Divorced,Full-time,High School,Asian,Female,USA,203169.1283,722.0035476,29.33486267,77.10383702,Low
+25,Low,Married,Unemployed,PhD,Black,Female,USA,???,809.6660546,49.06943459,43.5230718,High
+38,Medium,Married,Unemployed,PhD,White,Male,Australia,314807.5756,566.0299527,43.86114359,94.68425517,High
+56,High,Divorced,Full-time,High School,White,Female,Canada,320549.9926,473.5544109,76.03116511,46.75889485,Medium
+36,Low,Married,Self-employed,High School,White,Female,USA,425401.6099,733.9198182,???,87.49394056,Medium
+40,Low,Married,Full-time,???,Asian,Female,Australia,370693.7649,674.9820238,94.35531456,81.08281134,Low
+28,High,Married,Unemployed,Master,Hispanic,Male,USA,271744.0902,788.8138661,90.25338826,98.09863028,Medium
+28,Medium,Married,Full-time,Master,Asian,Male,UK,327139.7983,680.882707,87.2161152,92.65477808,Medium
+41,Medium,Divorced,Unemployed,High School,Hispanic,Female,India,137720.402,433.9405864,7.125833265,89.81238347,Low
+53,Medium,Married,Full-time,Associate,Black,Female,UK,296935.0388,812.4125874,85.42580616,73.16043405,Low
+57,Low,Married,Self-employed,PhD,Other,Female,USA,245124.4001,357.659661,78.16354454,36.69981473,Medium
+41,Low,Divorced,Self-employed,PhD,Hispanic,Female,Canada,67538.88919,447.3685126,10.3512947,10.61254186,High
+20,Low,Widowed,Full-time,High School,White,Male,India,122029.594,586.1070342,10.74143254,68.86450523,Medium
+39,Low,Single,Full-time,Associate,Asian,Female,UK,146555.0319,611.1581143,10.11638115,97.86540813,High
+19,Medium,Widowed,Self-employed,Bachelor,Black,Female,Australia,462230.474,308.4208226,1.13325932,72.66044373,High
+41,High,Divorced,Unemployed,High School,White,Female,Canada,115962.9331,729.3149992,54.86343052,92.87293693,High
+61,Low,Single,Self-employed,High School,Black,Male,UK,145332.7075,498.8840251,97.33942914,80.4304713,Low
+47,Low,Divorced,Unemployed,PhD,Other,Male,Australia,185307.7109,523.5301976,43.86847029,16.31146751,Low
+55,Medium,Divorced,Full-time,High School,Asian,Female,USA,332207.6266,745.1532494,54.07575019,24.92037706,Low
+19,High,Married,Full-time,High School,Asian,Female,Australia,60000.95784,508.6058655,96.79697968,34.18656018,Medium
+38,High,Single,Unemployed,High School,Other,Female,UK,477018.661,325.9736821,25.51822288,16.82604443,Low
+50,Medium,Married,Full-time,PhD,Asian,Female,UK,432920.0388,397.0418738,85.84702526,58.16513327,Low
+29,Medium,Single,Unemployed,Bachelor,Hispanic,Female,USA,289030.8204,825.7467448,54.63904672,97.54505241,Medium
+39,High,Divorced,Part-time,Bachelor,Black,Male,Australia,337344.8958,338.7229493,56.94765147,76.14588334,Medium
+61,Low,Divorced,Self-employed,High School,White,Male,Australia,9313.575151,495.2121605,34.31738572,42.33867491,High
+42,High,Widowed,Part-time,PhD,Other,Male,USA,170133.4429,576.7485419,56.1584361,0.450448098,Medium
+66,Medium,Single,Unemployed,Bachelor,Hispanic,Female,Australia,398034.4551,571.304455,7.314250948,31.32760111,Medium
+44,Low,Married,Self-employed,Bachelor,White,Male,USA,39664.00392,302.1779687,76.46435726,52.67592877,Low
+59,Low,Widowed,Unemployed,Bachelor,White,Male,Canada,141874.6033,575.6395023,28.46877615,32.42508739,High
+45,Medium,Widowed,Self-employed,PhD,Other,Male,UK,293063.1173,511.0748519,88.76083295,11.1034923,High
+33,Medium,Widowed,Self-employed,PhD,Hispanic,Female,Canada,128950.1008,834.6436345,36.78506946,44.27649569,Medium
+32,Medium,Married,Self-employed,High School,White,Female,India,467055.0091,387.5374962,14.28241105,25.3252817,Low
+64,High,Widowed,???,Master,White,Male,India,66398.25677,494.7848082,69.58815744,90.92323765,Low
+68,High,Married,Unemployed,Bachelor,Hispanic,Female,India,398899.7846,530.7148168,16.45781447,10.17545285,Low
+61,Low,Widowed,Self-employed,Master,Asian,Male,USA,254466.3973,514.8814454,75.36805155,4.915262872,Low
+69,Medium,Married,Self-employed,PhD,White,Male,Australia,375415.0571,666.2069552,96.81122364,0.531416915,Medium
+20,Low,Divorced,Part-time,PhD,Black,Male,Canada,156046.9488,418.5320717,77.95528688,32.80696845,Low
+54,Low,Divorced,Full-time,PhD,Hispanic,Male,Canada,257730.3116,421.589354,2.244924843,66.03868382,High
+68,Low,Divorced,Full-time,Master,White,Female,Canada,428560.8395,701.0660217,59.98857881,73.04137529,High
+24,Low,Divorced,Part-time,PhD,Other,Female,Canada,233972.1715,575.1597853,69.5410671,45.32616834,Medium
+38,Medium,Divorced,Part-time,High School,Black,Female,India,180500.2111,528.3356218,82.54583258,68.43286505,Low
+26,Low,Widowed,Unemployed,PhD,White,Female,Canada,268541.5377,393.0616784,5.600230894,35.99140362,Low
+56,Medium,Widowed,Unemployed,Associate,Black,Male,Australia,358964.0138,403.1399726,48.0107828,66.780622,Low
+35,Medium,Widowed,Unemployed,Master,Black,Female,India,222338.1094,305.8034002,53.53708726,4.05959853,Low
+21,High,Married,Part-time,Associate,Asian,Male,Canada,469499.6106,350.2844479,16.91248626,39.07529846,Medium
+42,Medium,Married,Part-time,PhD,Black,Female,USA,148177.9662,606.2612821,32.24498097,79.08496776,Low
+31,High,Married,Self-employed,High School,Asian,Female,UK,238256.3395,790.5302215,44.02217263,80.30060305,Medium
+67,Medium,Married,Unemployed,Bachelor,Hispanic,Female,UK,378706.902,457.9406208,83.3209688,71.61487789,Low
+26,Medium,Divorced,Unemployed,PhD,Asian,Male,UK,344871.4242,480.2609742,92.94075661,20.42386206,Low
+43,Medium,Divorced,Unemployed,High School,Other,Male,India,431956.8852,363.5830858,62.84228289,24.72051189,High
+19,High,Divorced,Full-time,Master,White,Male,Canada,498407.7812,513.7470201,39.4945186,99.60887273,Medium
+37,High,Single,Self-employed,Associate,Hispanic,Male,India,214002.3061,320.4719375,25.40310178,10.33780072,High
+45,Low,Widowed,Unemployed,Associate,Hispanic,Female,Australia,56464.28901,804.6803829,98.21351844,18.06626989,Medium
+64,High,Married,Unemployed,Associate,Other,Male,USA,16177.52452,670.2112415,98.30199981,13.00262557,Low
+24,High,Married,Unemployed,Master,Asian,Male,USA,363711.5762,844.9118452,92.49769482,32.76549637,Low
+61,High,Divorced,Full-time,High School,White,Female,UK,437132.822,785.5527395,78.56691499,21.01758352,Medium
+25,High,Married,Full-time,Master,Asian,Female,UK,111135.5804,560.1448265,32.57795437,49.76879595,High
+64,Low,Married,Part-time,Associate,Black,Male,UK,80065.57056,585.8267671,81.70004835,47.60207069,Medium
+52,High,Widowed,Self-employed,PhD,Asian,Female,Canada,32040.34067,404.8168256,40.87930173,90.15056195,Medium
+31,Medium,Divorced,Part-time,Bachelor,Hispanic,Male,Australia,411528.7579,554.1216386,32.67730982,3.473994744,Low
+34,Medium,Widowed,Self-employed,Master,White,Female,Australia,156379.588,796.6653304,74.48653585,31.98795767,High
+53,High,Single,Full-time,Master,Asian,Male,Australia,201446.7495,327.969383,7.965392762,59.6657892,Medium
+67,High,Single,Unemployed,High School,White,Male,Australia,251872.3456,774.9562416,4.85627233,60.48017618,High
+57,Medium,Single,Part-time,High School,White,Male,UK,419887.1639,487.5212909,44.79536972,48.0126229,High
+21,Medium,Divorced,Unemployed,Master,Black,Male,USA,325765.7776,794.7320208,44.56388008,81.56655408,Medium
+19,Low,Married,Part-time,Associate,Black,Male,UK,307917.2503,817.4839485,89.56441531,6.272217141,High
+23,Medium,Divorced,Full-time,Bachelor,Hispanic,Female,Australia,88660.37788,668.9756879,12.61530963,81.54877656,Low
+59,Medium,Divorced,Full-time,High School,Other,Male,UK,257081.756,665.4330826,12.32839275,49.47542404,Low
+21,High,Married,Full-time,Associate,White,Male,Australia,357975.1276,549.0148857,14.74526005,13.37606951,Low
+46,Medium,Widowed,Part-time,PhD,Other,Male,India,486657.1806,759.5471235,2.973626129,88.57019135,Low
+35,Low,Single,Self-employed,High School,Hispanic,Male,USA,101501.7483,828.8870171,7.173173781,64.92287795,High
+43,Medium,Widowed,Part-time,Associate,White,Male,India,5762.133181,726.2949902,65.98698668,16.35456868,Low
+61,High,Single,Self-employed,Associate,White,Female,Canada,38575.41537,642.0652036,43.15843291,3.36497234,Medium
+51,High,Divorced,Part-time,Bachelor,Other,Female,UK,188550.3801,633.7360927,76.36030671,14.11096483,Low
+27,Medium,Single,Part-time,Bachelor,Asian,Male,Canada,410451.7792,767.2084459,99.25977186,60.87979602,Medium
+53,High,Divorced,Full-time,PhD,Black,Female,UK,4563.898802,597.6620712,65.90346811,17.92962353,Medium
+31,Low,Widowed,Unemployed,Associate,Asian,Male,India,228908.5659,742.1229374,5.045557062,22.57630749,Low
+48,Low,Divorced,???,Associate,Other,Female,Australia,165286.0771,579.8868903,10.45628648,2.513972576,Low
+65,Medium,Widowed,Self-employed,Bachelor,Black,Female,Australia,27188.37334,334.3443512,88.10040848,72.29306722,High
+32,Medium,Married,Unemployed,High School,Asian,Male,UK,225667.907,511.1708549,52.74959446,81.03643998,Medium
+25,Medium,Married,Part-time,High School,Black,Female,Australia,128119.605,544.4425267,82.48371594,79.68481768,Low
+31,High,Married,Part-time,Master,White,Female,India,176590.5323,377.8894847,85.66123362,12.75681514,High
+40,Low,Divorced,Full-time,Bachelor,Asian,Male,Australia,353102.0371,356.3729811,92.76745415,90.33011274,Low
+57,Low,Married,Full-time,Master,Black,Male,India,261253.941,594.5057223,94.98292055,67.22788295,Low
+38,High,Single,Unemployed,Bachelor,Black,Female,Canada,63199.06707,346.8290001,55.48257965,89.75286224,Low
+33,Low,Widowed,Self-employed,PhD,Black,Female,India,480745.8557,466.6198423,34.10201723,44.71605045,Medium
+62,Medium,Widowed,Unemployed,Associate,Asian,Female,USA,318319.4721,709.5283368,96.18648743,43.69548611,Low
+35,Medium,Single,Unemployed,PhD,Hispanic,Male,USA,383168.3444,830.4376988,54.7406406,78.45365187,High
+64,Medium,Divorced,Unemployed,Bachelor,Asian,Female,USA,40527.36185,694.8288193,6.425272295,9.329785548,Low
+41,Low,Divorced,Unemployed,Associate,Other,Female,UK,24482.13135,845.9440516,64.27765501,52.08740366,Low
+43,Medium,Widowed,Part-time,High School,Asian,Female,UK,10704.57713,684.0858842,58.76847504,83.63842356,High
+42,High,Married,Self-employed,High School,Black,Male,UK,95208.21986,461.5869589,89.57928729,83.01925631,High
+62,High,Divorced,Part-time,Master,White,Male,India,207789.7905,669.6288973,65.31871892,95.61328563,Medium
+58,Low,Divorced,Self-employed,Bachelor,Asian,Male,UK,467977.2406,686.1862209,34.90524245,69.82725935,Medium
+46,High,Single,Full-time,Bachelor,Asian,Male,Canada,229072.77,504.4498415,96.62257257,20.77706294,Medium
+32,High,Single,Unemployed,High School,Black,Female,USA,145837.2976,309.7426178,80.1619486,2.028031489,Medium
+62,Low,Married,Part-time,PhD,White,Male,India,281405.6915,686.7598816,63.04176184,47.94157986,High
+18,Medium,Divorced,Self-employed,Associate,White,Female,USA,56855.35449,311.9350524,29.29252034,51.37038656,Low
+42,Medium,Divorced,Full-time,PhD,Other,Female,UK,305143.4396,647.1534429,37.35402963,24.02625845,Low
+24,Medium,Single,Full-time,PhD,Asian,Female,India,284647.5452,389.9890688,66.99699241,12.46974471,Low
+26,Low,Divorced,Unemployed,High School,White,Female,Australia,396204.5237,611.0819403,7.198081846,58.62081662,Medium
+41,High,Widowed,Self-employed,High School,White,Male,Canada,493357.1182,577.152164,25.66805917,76.4255674,High
+18,Medium,Single,Part-time,High School,Hispanic,Male,UK,126185.8624,307.4325033,71.39009334,99.31541036,High
+61,Medium,Married,Unemployed,Master,Hispanic,Male,UK,255318.569,499.5761993,48.00185098,75.83026172,High
+25,Low,Single,Part-time,PhD,White,Male,Canada,454523.8378,630.6001421,40.23935648,79.36324143,Low
+41,Medium,Divorced,Full-time,Bachelor,Other,Male,Canada,392809.7523,766.7336035,15.14576224,61.64608782,Medium
+28,Low,Married,Part-time,Associate,White,Female,Australia,244215.7452,788.7531626,44.18490345,98.5922659,High
+68,High,Single,Part-time,Master,Black,Male,UK,472740.4532,566.1174835,77.06919708,63.99563851,Medium
+34,Low,Widowed,Unemployed,Bachelor,Asian,Male,UK,29561.11006,700.632368,26.40128461,86.02532864,High
+25,Low,Widowed,Part-time,PhD,Other,Male,USA,465568.3112,474.0500171,0.539854218,94.57846462,Medium
+52,Low,Single,Unemployed,High School,Black,Male,India,26203.1888,488.2025232,66.85049012,92.98585005,High
+52,Low,Widowed,Full-time,PhD,Other,Female,India,274105.0673,406.9549356,97.26266044,38.14153438,Medium
+50,High,Widowed,Unemployed,Associate,Black,Female,USA,445330.0331,609.0714605,60.68265636,7.866205831,High
+22,High,Widowed,Unemployed,Master,Asian,Female,India,132097.7508,473.010283,11.99218589,17.18737025,High
+59,Medium,Married,Self-employed,Master,Asian,Female,Canada,236652.001,346.403993,32.07330923,5.92233054,Medium
+56,High,Widowed,Part-time,Associate,Hispanic,Female,India,162840.1107,676.7533477,86.76416147,10.53969348,Medium
+58,High,Widowed,Full-time,Bachelor,Black,Male,India,476119.8146,689.2642642,23.25680743,18.46512459,Low
+45,Medium,Widowed,Unemployed,Bachelor,Hispanic,Female,USA,411999.1518,497.9958303,60.76959035,34.10943166,Medium
+24,High,Married,Full-time,Master,Black,Female,Australia,354791.7542,342.1978697,40.26712083,54.35396466,High
+26,Low,Single,Self-employed,Master,Hispanic,Female,India,294225.8663,534.4637446,20.78437214,71.16820594,High
+25,Low,Divorced,Part-time,High School,Asian,Male,India,410475.3029,543.2845019,81.34068936,21.09273361,Medium
+29,Medium,Widowed,Unemployed,Bachelor,Other,Male,Australia,196741.2537,667.7689867,74.28312765,67.25224042,Low
+51,Medium,Single,???,Associate,Hispanic,Female,USA,224328.3757,473.4790152,66.1591066,70.42590745,Medium
+50,Medium,Widowed,Self-employed,Bachelor,Black,Male,Australia,365270.8588,675.4296039,23.63365903,55.86223369,High
+65,Low,Married,Self-employed,High School,Black,Male,USA,179519.6269,779.318698,9.785700272,90.36178698,High
+40,High,Single,Full-time,Master,Asian,Female,Canada,32886.57008,430.6173233,57.61593298,11.09948139,Low
+41,Low,Married,Unemployed,Master,Black,Male,USA,38092.96983,838.4057559,55.36778335,17.71214576,Medium
+54,Medium,Widowed,Full-time,High School,White,Male,Canada,58566.03785,512.5024754,18.83850093,42.86648244,High
+52,High,Widowed,Self-employed,Associate,Other,Male,Canada,434970.9803,446.9922768,5.624669432,12.67127352,High
+61,High,Married,Part-time,Master,Hispanic,Female,USA,236640.9865,531.8311504,8.070845419,56.62961437,High
+57,Low,Divorced,Full-time,PhD,Other,Female,UK,356728.3023,351.9186117,99.27709865,39.84004666,Medium
+39,Medium,Married,Full-time,Master,Asian,Female,USA,197061.7585,369.1382486,78.35838947,28.45957945,Medium
+44,Low,Widowed,Part-time,PhD,Hispanic,Male,India,130096.7628,527.9387258,92.1987476,16.9989813,Low
+52,High,Married,Full-time,High School,Hispanic,Female,India,174248.8916,719.3444871,19.50547222,33.53382383,High
+18,Low,Divorced,Part-time,High School,White,Male,UK,397296.9903,795.1717318,96.05685363,60.79593508,High
+52,Low,Married,Unemployed,Master,Asian,Male,Canada,312982.8464,665.6498949,14.26543515,57.57852109,Low
+54,Medium,Divorced,Part-time,Bachelor,Black,Male,UK,468882.2502,357.8707554,50.90818286,16.36240002,High
+64,Medium,Divorced,Unemployed,PhD,White,Female,India,340172.6845,669.6108692,82.96956844,12.49198107,Low
+31,High,Married,Part-time,Associate,White,Female,UK,285520.6342,649.4853564,34.98033545,2.667676261,Low
+20,Low,Married,Self-employed,Master,Other,Female,USA,305487.8085,743.1701551,42.48285332,1.242559379,High
+18,Low,Single,Self-employed,Associate,Other,Female,UK,471243.3483,753.8867667,12.81851103,87.98104357,Medium
+22,Low,Widowed,Unemployed,Master,Other,Male,Canada,394312.264,777.5116917,12.292188,4.508885601,Medium
+43,High,Divorced,Unemployed,Bachelor,White,Female,USA,12996.57745,527.772333,61.95682248,73.12211099,Medium
+31,High,Single,Self-employed,Bachelor,Black,Male,Australia,267535.7084,683.8254174,67.55323686,87.19850962,Medium
+56,Medium,Married,Unemployed,Bachelor,Hispanic,Female,India,344480.8674,447.5376974,77.73325141,9.805784856,High
+44,Medium,Widowed,Part-time,Bachelor,Other,Female,India,374600.5407,849.634954,55.66820527,43.63014238,Low
+26,Medium,Single,Part-time,High School,Black,Female,UK,107357.9175,396.4338328,64.57592923,96.23029832,Low
+32,Low,Divorced,Self-employed,High School,Asian,Male,USA,433721.4999,305.5629374,1.35172717,83.41386605,High
+32,Low,Single,Full-time,PhD,Other,Male,Australia,477965.7304,381.844793,16.21707271,48.97040319,Medium
+43,Medium,Divorced,Part-time,Associate,Hispanic,Male,USA,119120.9376,726.7297592,98.4914766,76.25711128,Low
+59,Low,Married,Unemployed,Master,Asian,Male,India,441425.1133,545.7310221,7.599350632,83.33776244,High
+30,Medium,Widowed,Full-time,Master,Asian,Male,USA,49392.4025,546.1251363,67.87882223,34.80269632,High
+68,High,Widowed,Full-time,High School,Hispanic,Female,Australia,28797.71122,825.2626058,17.6082633,89.21529169,Medium
+49,Medium,Widowed,Part-time,Master,Other,Male,UK,65482.67625,805.7991994,71.67185858,47.04733197,High
+56,High,Married,Part-time,High School,White,Male,Canada,29812.79865,471.1571058,70.5990403,52.78073636,Low
+66,Low,Divorced,Full-time,PhD,Hispanic,Male,USA,422661.1063,414.9819708,23.41990598,99.97076378,Low
+69,Medium,Married,Full-time,Associate,Hispanic,Male,Canada,30466.02208,766.6652155,26.96343992,84.33029662,High
+49,Low,Widowed,Self-employed,PhD,Hispanic,Female,India,136560.4315,798.3104891,65.47707136,36.17700058,Low
+21,High,Married,Unemployed,Bachelor,Asian,Male,UK,52774.41542,597.8783075,39.00860388,1.034559647,High
+47,High,Married,Self-employed,Bachelor,Black,Female,UK,148415.5961,646.1830411,19.45479697,62.61740738,Low
+54,High,Married,Part-time,Bachelor,White,Female,USA,46189.17433,441.3028566,73.16795988,70.39134261,Medium
+40,Low,Divorced,Self-employed,PhD,Other,Female,UK,334333.6221,740.4414784,15.41475243,65.08026901,Low
+56,Low,Single,Self-employed,Master,Other,Male,USA,67530.08135,647.6673356,85.56436641,96.78623512,Medium
+62,Low,Single,Self-employed,Associate,Black,Female,USA,426071.117,576.9324312,51.46695241,86.29710273,Medium
+32,Low,Married,Self-employed,Bachelor,Hispanic,Male,Canada,408778.3343,333.0597058,10.57006039,44.88316932,High
+60,High,Single,Unemployed,Bachelor,White,Male,UK,7817.18105,803.7642294,69.40723335,6.285748747,Medium
+46,High,Single,Unemployed,Bachelor,Other,Male,USA,447967.4514,638.4982812,51.91630396,47.60587695,Low
+53,Medium,Married,Full-time,Associate,Other,Male,Canada,15443.21405,405.9801021,29.80575718,68.924402,Low
+30,Medium,Married,Part-time,Bachelor,Hispanic,Male,Australia,120583.2467,633.5123643,42.25393802,60.77098082,Medium
+49,Low,Widowed,Self-employed,Associate,Black,Female,Canada,17162.17975,672.6048448,29.83377436,53.81370677,High
+24,High,Single,Full-time,Bachelor,White,Female,Canada,168585.9,589.1736852,26.30258357,46.8818958,Medium
+68,High,Divorced,Full-time,PhD,Black,Male,USA,257419.3963,694.9559559,16.36084208,29.3761873,Low
+39,High,Married,Full-time,PhD,Black,Female,India,398525.7896,619.7996714,36.27671331,27.73467617,Low
+45,Medium,Widowed,Unemployed,Associate,White,Male,India,169652.7937,821.2732701,25.09872063,50.02314789,Medium
+19,Medium,Divorced,Self-employed,PhD,White,Female,India,353039.5223,329.5333932,68.34344871,16.06031464,Medium
+59,High,Single,Self-employed,Associate,Other,Female,Canada,94564.7241,358.4351397,68.38767412,34.06854236,Medium
+62,High,Widowed,Part-time,PhD,Other,Female,USA,375548.6299,395.5194003,50.18402426,32.39792747,Low
+23,High,Married,Self-employed,PhD,White,Female,UK,118762.3063,679.5940888,77.79445275,58.71328016,Low
+45,Medium,Divorced,Self-employed,Associate,Asian,Female,Canada,72628.83322,655.07773,84.1339719,6.668230036,Low
+45,High,Married,Full-time,Master,Other,Male,Canada,93519.01634,790.6323731,57.97664574,82.96686803,High
+61,High,Single,Part-time,PhD,Asian,Male,USA,91849.50131,703.0825991,61.89351628,56.23783804,Low
+61,Low,Divorced,Self-employed,Bachelor,White,Female,Australia,256918.5768,579.5955182,28.28859098,67.08266808,Low
+37,Low,Single,Unemployed,Master,Other,Male,Canada,422553.993,845.5074859,89.48692007,70.30939038,High
+47,Medium,Single,Self-employed,Associate,Black,Female,Australia,40722.93342,446.3593759,2.420604442,29.14841368,High
+28,High,Widowed,Full-time,Master,White,Male,Australia,353771.2029,758.2554129,34.86024694,47.03715674,High
+45,High,Married,Unemployed,High School,Hispanic,Female,India,327518.8834,534.7347047,72.18004215,95.62459559,High
+42,Low,Divorced,Full-time,High School,Asian,Female,USA,436387.456,656.8043264,8.008950967,76.6705238,High
+56,Medium,Single,Self-employed,PhD,White,Female,Australia,122829.6327,699.9976587,18.31695274,96.95568752,High
+50,Low,Single,Unemployed,PhD,White,Male,USA,225604.8195,648.564748,58.92857279,74.62543451,Medium
+18,Low,Divorced,Part-time,Bachelor,Other,Male,India,462987.8598,377.2790167,55.99936715,17.56001397,Medium
+44,Low,Single,Part-time,Master,Other,Female,USA,330336.7316,543.6230559,73.89282961,6.453588384,Medium
+69,Low,Widowed,???,High School,Other,Female,Canada,194995.438,608.7911079,81.26126391,57.76614367,Medium
+30,High,Widowed,Unemployed,PhD,Hispanic,Male,Australia,66574.77904,766.9740675,12.85795785,35.78132797,Low
+58,High,Widowed,Full-time,Master,Other,Male,USA,131980.0189,544.0051618,1.838098978,27.54579101,High
+20,Low,Widowed,Unemployed,PhD,White,Male,UK,291026.5233,805.3110176,68.96385197,80.72109964,Low
+56,Medium,Single,Full-time,PhD,Other,Male,USA,359365.8058,542.2058227,30.13917958,36.69932671,High
+23,Medium,Divorced,Self-employed,High School,Black,Male,Australia,63086.52154,601.8289226,62.59839139,31.70009697,High
+25,Medium,Divorced,Full-time,High School,Other,Female,India,300199.0328,737.9571256,15.05445881,84.99875932,Low
+44,Medium,Divorced,Unemployed,PhD,Hispanic,Male,India,275625.2881,620.6872264,46.90400467,84.62873365,Medium
+26,Low,Divorced,Unemployed,Associate,Black,Female,Australia,257463.7679,828.1199398,50.44247461,35.63666378,Low
+54,High,Married,Self-employed,PhD,White,Female,Canada,345371.4357,663.1847068,58.50778164,83.2498701,Low
+50,Medium,Divorced,Unemployed,PhD,White,Male,Canada,418887.3479,587.4901997,51.31700163,85.07784903,High
+68,Low,Married,Unemployed,Bachelor,Asian,Male,India,162171.8519,312.9755823,49.56907702,42.3930535,High
+59,Medium,Married,Part-time,Bachelor,Black,Female,India,444617.0829,527.5530937,33.2734154,6.647313021,High
+61,Medium,Widowed,Part-time,Bachelor,Asian,Male,Australia,81156.1727,464.5866306,7.118023632,0.158464447,Medium
+41,Low,Married,Self-employed,Associate,Black,Female,Canada,87338.91101,711.4581173,8.95201968,52.32924629,Low
+32,High,Single,Full-time,Associate,Black,Male,India,134119.2597,414.5527213,43.37782744,34.40754934,Low
+49,High,Married,Part-time,PhD,Hispanic,Male,Canada,60645.9039,412.871048,35.57931278,99.71318942,Medium
+49,Low,Widowed,Full-time,Bachelor,Asian,Male,India,115929.2931,404.2354738,51.61348047,77.24109996,Low
+41,High,Married,Unemployed,Associate,Hispanic,Female,USA,54099.46969,369.0885872,30.48381693,76.12754564,Low
+58,Low,Single,Part-time,High School,Black,Male,UK,411054.4561,471.053852,68.79100915,95.52427683,High
+69,Low,Single,Self-employed,PhD,White,Female,USA,70345.52695,787.2571629,86.3954822,88.77243979,Medium
+66,Low,Single,Self-employed,Master,Black,Male,India,373901.4812,726.2106598,29.88631888,31.81874795,High
+66,High,Widowed,Self-employed,PhD,Hispanic,Female,UK,24909.02009,704.388169,19.29840079,16.59872216,Medium
+69,Low,Widowed,Part-time,Master,Asian,Male,UK,474311.6434,738.5352431,11.61805743,74.58922651,High
+29,Medium,Divorced,Full-time,Bachelor,Asian,Female,India,355868.8837,448.1798391,61.62540406,37.82738937,Low
+56,High,Widowed,Unemployed,Master,Hispanic,Female,India,4391.477744,788.0929299,44.38559911,47.31726516,Medium
+19,High,Single,Full-time,Bachelor,Asian,Female,Canada,382164.3936,375.5168563,18.80157172,63.03977313,Medium
+20,High,Single,Full-time,High School,Other,Female,India,257526.8785,484.9901497,65.31367333,90.78726769,High
+66,High,Widowed,Unemployed,Master,White,Female,Australia,389903.22,622.7114654,14.8483183,41.90877537,Medium
+54,Medium,Married,Unemployed,PhD,White,Female,India,261725.9076,356.5977986,55.43007058,78.33168902,Low
+66,High,Widowed,Part-time,Bachelor,White,Male,Australia,320871.404,701.5716033,52.71483816,26.83397913,Low
+34,High,Widowed,Part-time,PhD,Asian,Female,India,393379.496,512.9853265,73.42278012,69.79717909,Low
+66,Low,Single,Part-time,Associate,Asian,Female,Canada,203148.9192,731.4231161,5.510963994,0.157942108,High
+19,High,Divorced,Part-time,Bachelor,Black,Female,Australia,2351.36676,571.0929571,88.78729319,87.15072135,Medium
+19,Medium,Single,Part-time,Master,Black,Male,USA,425123.3015,399.4809884,70.29917261,3.037957995,High
+45,Medium,Divorced,Unemployed,Bachelor,White,Male,Australia,191064.2909,704.1189962,21.61259983,71.27537548,Low
+40,Medium,Single,Full-time,PhD,Other,Male,Canada,248525.3203,438.6791757,18.34053486,4.625818926,Medium
+54,Medium,Widowed,Part-time,High School,Black,Female,Australia,4875.554435,569.9456657,43.16602141,26.62456994,Low
+49,High,Single,Part-time,Bachelor,Black,Male,India,246553.9132,341.543298,81.75653295,49.72024036,Medium
+50,High,Single,Full-time,Master,Asian,Male,India,493257.2134,639.8266599,84.29499931,41.99386853,Medium
+18,Medium,Single,Part-time,Associate,Other,Female,Canada,139855.5627,666.2217714,52.04560921,19.18361146,High
+36,Medium,Widowed,Full-time,High School,White,Female,UK,198313.7169,508.2708155,86.08108627,33.38149117,Medium
+19,High,Widowed,Full-time,Associate,Black,Male,India,343907.8082,824.9325292,0.544370919,72.77063701,Low
+61,Medium,Widowed,Unemployed,Bachelor,Other,Female,USA,407582.0401,780.7929068,3.517463153,66.92570926,Medium
+43,Low,Widowed,Self-employed,PhD,Other,Female,Canada,209278.4204,689.3675037,91.18215936,7.181458376,Low
+49,Medium,Divorced,Unemployed,PhD,White,Female,Australia,155524.7663,692.508641,77.53319299,74.73158256,High
+23,Medium,Divorced,Self-employed,Master,Other,Female,Australia,468975.0742,438.8209432,45.07060583,5.30458812,Low
+49,Low,Married,Self-employed,PhD,Other,Male,USA,338895.3384,661.2483771,75.36101315,54.29263891,Medium
+21,Low,Widowed,Self-employed,High School,Other,Female,India,60391.63094,409.0134459,95.56394617,26.0062748,Low
+28,High,Divorced,Part-time,PhD,Black,Male,Canada,35395.01119,379.2017732,77.20895239,58.76901276,Low
+34,High,Single,Unemployed,Master,White,Male,USA,242291.3755,849.7073418,84.23713338,26.13283959,Medium
+55,Low,Widowed,Self-employed,Bachelor,Other,Male,India,110824.943,642.3067623,76.06065814,98.49579696,Low
+41,Low,Married,Full-time,Bachelor,Other,Male,Canada,127738.3919,537.04333,16.82110924,30.97281837,Medium
+22,High,Married,Part-time,PhD,Black,Female,Australia,438968.3972,458.4904876,83.35741096,24.19606357,High
+69,Medium,Married,Unemployed,Associate,White,Female,Canada,45693.44613,632.156244,19.510882,27.84652909,Low
+51,Low,Single,Self-employed,Bachelor,Asian,Female,UK,357966.6935,327.2764295,89.2611328,89.64728573,High
+23,High,Divorced,Full-time,PhD,Black,Male,Canada,136299.9844,352.0745448,45.86498981,63.62188287,Low
+39,Medium,Single,Unemployed,Master,White,Male,UK,380403.7825,318.0711838,67.69767523,73.06840974,Low
+28,Low,Widowed,Unemployed,PhD,Other,Male,Canada,361483.2808,574.5434083,49.72408479,91.80105101,High
+65,Medium,Married,Part-time,Bachelor,White,Female,UK,4688.558821,630.3336461,9.399092942,91.18724848,Low
+33,High,Single,???,Master,White,Male,Australia,255058.571,334.3638687,29.07223076,73.89458466,Low
+50,Low,Single,Part-time,PhD,White,Female,India,70520.42171,696.6734571,98.3731854,19.78244288,High
+26,Medium,Divorced,Self-employed,High School,Asian,Female,UK,433247.2883,426.7172893,96.07147517,84.33733207,Low
+23,Low,Divorced,Part-time,Master,White,Female,UK,435921.3555,676.8607996,32.04868977,20.37760342,Medium
+33,Medium,Married,Full-time,High School,Asian,Female,Australia,209754.5579,840.043427,99.62968042,74.28988141,Low
+46,High,Single,Part-time,Associate,Other,Male,UK,222753.4136,680.1082285,84.55511955,68.56030665,Low
+20,High,Single,Full-time,Master,Asian,Female,USA,152338.1868,785.7561791,61.09594994,75.88888501,Low
+37,Low,Divorced,Part-time,High School,Other,Male,Australia,358586.5432,821.5091787,4.012462026,53.26856807,High
+53,Medium,Single,Unemployed,Bachelor,Other,Female,USA,179972.0202,567.7130766,90.14468295,63.87261822,Medium
+36,Low,Single,Self-employed,Bachelor,Asian,Male,Australia,134628.4448,686.2787387,55.74292793,95.33200804,Medium
+43,Low,Single,Full-time,Associate,Black,Male,UK,216683.2987,768.5830895,86.84761512,10.10885942,Low
+20,Medium,Divorced,Part-time,Master,Hispanic,Female,USA,46652.27168,496.1349021,83.44291199,30.88472748,High
+36,Medium,Married,Part-time,Master,White,Female,UK,373554.9991,443.7685241,83.30062152,61.13570131,High
+37,Medium,Widowed,Part-time,Master,Hispanic,Female,Australia,7285.604235,820.629215,69.81738607,96.40541301,Medium
+49,High,Married,Unemployed,Associate,White,Male,UK,322598.0457,699.4669252,29.14151387,9.557444766,High
+24,Low,Widowed,Unemployed,Master,White,Female,USA,92249.39885,420.8251734,33.61602577,2.254922153,Low
+69,Low,Single,Full-time,Bachelor,Other,Female,USA,116969.6191,546.995866,30.84692126,5.574959847,Low
+58,High,Married,Full-time,High School,White,Male,UK,318180.3673,738.0484732,2.004599953,5.240568646,High
+50,Medium,Widowed,Unemployed,Bachelor,White,Female,Canada,496478.7894,600.884645,58.25689092,90.78158578,Low
+57,High,Divorced,Full-time,Bachelor,Asian,Male,Australia,389081.027,657.473654,69.88336704,72.12579079,Medium
+56,High,Divorced,Self-employed,High School,Hispanic,Female,Australia,113693.9765,714.5725111,85.38659935,67.71063662,Low
+35,High,Married,Self-employed,Bachelor,Asian,Male,UK,88836.35277,642.1050538,14.01654334,52.25728203,High
+57,Low,Married,Unemployed,Associate,White,Male,Canada,433250.2023,597.0436271,54.4183149,78.1952617,Medium
+18,High,Single,Full-time,High School,Other,Female,USA,222647.79,712.2878564,0.800814067,15.56479928,Low
+28,Low,Married,Part-time,Bachelor,Asian,Male,India,69389.34861,700.1596695,9.509364771,39.19411898,Medium
+45,Low,Single,Self-employed,PhD,Asian,Female,India,431243.5002,646.4298201,5.421174421,49.00042508,High
+42,Low,Single,Unemployed,Bachelor,Black,Female,UK,408230.0841,497.8841774,72.5478034,11.04094977,Low
+67,Medium,Divorced,Full-time,Associate,White,Male,Canada,491969.2756,523.1966507,8.105956388,41.95137093,Low
+40,Low,Divorced,Unemployed,Master,Other,Female,Canada,454962.0997,833.7412019,71.64529816,31.65017793,Medium
+48,Low,Widowed,Part-time,Bachelor,Asian,Male,Australia,426043.379,361.8122628,24.96247044,3.558214579,Low
+47,Medium,Divorced,Self-employed,Master,Asian,Male,USA,27234.62451,447.6777045,87.77129607,13.67354027,Low
+59,Low,Divorced,Unemployed,PhD,Other,Male,Canada,53103.26938,570.8209676,81.31499884,76.40368232,Low
+52,High,Married,Unemployed,Bachelor,White,Male,India,284922.614,760.2013274,95.78302175,1.80379095,Low
+24,High,Divorced,Unemployed,High School,Black,Male,USA,266208.1439,390.0216151,88.37620155,93.42532991,High
+33,Low,Widowed,Part-time,Master,Asian,Male,USA,229523.644,452.32504,93.33294191,8.642463245,Low
+43,Medium,Married,Unemployed,PhD,Black,Male,UK,198997.8734,336.1890198,85.87423965,79.92380942,Medium
+65,High,Widowed,Part-time,High School,Hispanic,Male,Canada,216174.0319,688.2918963,69.33819006,89.86165409,High
+69,Medium,Divorced,Part-time,High School,White,Female,UK,285079.6691,431.0151895,17.02591521,94.11355849,Medium
+66,Medium,Widowed,Part-time,High School,Hispanic,Female,Canada,2036.182282,513.7711129,27.17075189,86.74770235,Medium
+19,High,Married,Self-employed,High School,Hispanic,Male,Australia,131093.6783,544.0357959,21.27269661,28.75500394,Medium
+18,Medium,Single,Self-employed,Bachelor,Hispanic,Female,UK,259621.5806,790.2226646,60.35857877,33.30871313,High
+65,High,Widowed,Unemployed,Bachelor,White,Female,UK,361385.8332,526.2316597,50.3619938,42.65456986,High
+29,Medium,Widowed,Unemployed,Bachelor,White,Female,India,87904.18951,379.873761,86.70799972,13.92966894,High
+22,High,Married,Self-employed,PhD,Other,Female,UK,273893.7057,588.3732161,95.26728665,2.227245507,Low
+54,Low,Married,Full-time,PhD,Black,Female,Canada,357515.3823,829.6268971,40.48598896,86.91216143,Medium
+49,High,Widowed,Self-employed,PhD,Black,Female,India,222869.2013,634.2271026,50.63505533,55.41287162,High
+26,High,Divorced,Part-time,Associate,Other,Male,UK,14513.4857,840.8629713,97.15163568,60.87229422,Medium
+58,High,Widowed,Self-employed,PhD,Other,Female,UK,225184.8111,762.6090199,27.62389416,92.69884748,High
+52,High,Married,Part-time,Bachelor,Hispanic,Female,Australia,148925.999,319.7811659,79.23907754,66.51201781,High
+36,Medium,Single,Unemployed,Bachelor,Other,Female,UK,464895.1542,662.1197775,22.52399023,69.08535043,High
+65,Low,Single,Full-time,Associate,Asian,Female,USA,63182.07945,457.7217827,68.14601154,78.69686484,Medium
+33,High,Divorced,Unemployed,Associate,Black,Male,India,326585.5018,607.7892706,25.36156276,11.63484499,Low
+20,Medium,Widowed,Part-time,PhD,Other,Male,USA,27307.1634,453.639855,88.37333888,36.01621532,High
+37,Low,Single,Part-time,Master,Asian,Male,India,223639.0485,491.8787291,56.14779437,96.82079277,High
+41,Low,Widowed,Part-time,Associate,Asian,Male,Australia,277435.7641,807.7427915,18.59336409,92.29300781,High
+50,Low,Married,Full-time,High School,Asian,Female,UK,149679.5107,413.6537517,22.43691757,88.40752963,Low
+41,Low,Single,Self-employed,Bachelor,Asian,Male,UK,228082.7421,780.7600149,49.38491957,45.20885103,Medium
+69,High,Divorced,Unemployed,High School,Hispanic,Male,UK,82613.34347,316.7517944,96.16020256,85.71929536,Medium
+28,High,Married,Unemployed,Bachelor,Asian,Male,India,152757.8009,349.9820961,76.96421639,4.839588195,Medium
+66,Medium,Divorced,Self-employed,Bachelor,Hispanic,Male,UK,310932.0561,770.0712728,48.83096428,14.85174243,Medium
+25,Medium,Married,Unemployed,Associate,Hispanic,Female,USA,151598.2279,646.805817,33.77191446,41.39676985,High
+53,Medium,Single,Full-time,Associate,Asian,Male,UK,449971.7961,710.9798759,54.92684933,48.33920667,Low
+55,Low,Divorced,Unemployed,High School,Black,Female,Australia,314575.0719,415.179719,74.83608334,26.35071535,High
+57,Low,Divorced,Part-time,Bachelor,Asian,Male,USA,219885.8602,595.3959006,78.39285885,35.64766708,Low
+37,High,Married,Self-employed,High School,Asian,Female,UK,20339.71084,705.470573,32.46087981,16.2776101,Medium
+52,Low,Divorced,Full-time,Master,Asian,Female,UK,250274.6193,645.0227754,72.11592682,48.91340317,Low
+65,Low,Married,Self-employed,High School,Black,Male,Canada,382623.3448,559.4343218,65.778878,79.38432929,High
+42,Low,Married,Full-time,PhD,White,Male,India,133513.2414,827.8810825,95.9112292,66.13603937,High
+52,Medium,Married,Part-time,High School,White,Male,USA,403580.0113,671.8865334,93.10902905,10.77922474,Medium
+42,Medium,Married,???,PhD,Hispanic,Male,Canada,126651.5763,799.2629401,78.93793256,48.75816034,High
+46,High,Single,Unemployed,PhD,Hispanic,Female,Australia,412049.4476,701.3737814,72.33946889,69.76463828,High
+35,Low,Married,Full-time,PhD,Black,Female,India,43548.90246,704.5049407,27.40415897,52.98952966,Low
+63,Low,Widowed,Self-employed,Master,Other,Male,USA,433225.6707,344.0100484,84.59652561,39.16755965,High
+35,High,Divorced,Unemployed,High School,White,Male,UK,250094.039,497.705542,42.75057037,62.19144213,Medium
+19,Low,Widowed,Self-employed,High School,Hispanic,Female,USA,148972.2572,772.1031737,27.22405425,96.86386653,Medium
+52,Low,Single,Self-employed,Master,White,Male,UK,133291.512,427.9321242,38.4160758,9.490790977,High
+33,Medium,Widowed,Self-employed,Bachelor,Black,Female,India,216573.2689,363.5282264,83.593549,39.00160607,Medium
+58,High,Divorced,Full-time,Associate,Black,Male,UK,499525.6996,479.3583312,14.86332156,40.6605853,Low
+53,High,Widowed,Unemployed,High School,Other,Female,Australia,110943.3693,421.2408367,45.61587411,57.69673105,Low
+50,High,Single,Part-time,Associate,Other,Female,UK,52505.10779,808.9085071,49.23575945,15.21746019,High
+21,High,Married,Full-time,Master,Black,Female,Australia,292932.5492,777.3816531,3.66296976,17.66430299,High
+50,Medium,Widowed,Full-time,Bachelor,Hispanic,Female,India,244782.6908,574.8257767,19.57460295,28.5361386,Low
+31,Medium,Single,Full-time,Bachelor,White,Female,India,262573.9393,333.739131,82.67424286,95.58700433,Medium
+38,Low,Single,Part-time,Bachelor,Asian,Male,USA,333800.7734,693.0092904,83.07673886,73.41085812,High
+65,Low,Divorced,Unemployed,Master,Other,Female,Australia,134304.8909,642.8764522,29.24150839,66.16933017,High
+37,Low,Divorced,Unemployed,PhD,Asian,Male,Australia,455421.8327,833.8050689,87.48972346,81.69576874,Medium
+25,Low,Widowed,Unemployed,PhD,Hispanic,Female,Canada,218400.361,607.4242821,77.17829391,12.75764689,High
+24,Medium,Married,Self-employed,Associate,Other,Female,Canada,65414.01138,485.0165479,41.79074838,85.93328197,Medium
+20,High,Single,Self-employed,PhD,Asian,Male,Canada,371407.0796,585.4619315,74.84063444,59.48327139,Medium
+34,Medium,Widowed,Self-employed,PhD,Hispanic,Male,UK,321909.072,838.5948103,96.13346312,33.53290075,Medium
+50,Low,Single,Part-time,Bachelor,White,Male,Canada,158555.9578,682.9993379,45.89697181,81.58552557,Medium
+65,Medium,Single,Self-employed,Bachelor,Hispanic,Male,Australia,311137.8433,669.5868759,23.8427179,80.25645343,Medium
+29,High,Married,Part-time,Associate,Other,???,UK,110711.1162,432.3748743,94.18165001,84.57085817,Low
+68,High,Married,Unemployed,High School,Black,Male,India,222974.8403,708.9813847,60.37442886,11.55179001,Medium
+39,Medium,Widowed,Self-employed,Associate,White,Female,USA,449806.8486,712.6495062,10.52651625,96.9361245,Low
+39,Medium,Married,Self-employed,Associate,Asian,Male,Canada,67633.58235,474.5089411,57.26828159,95.96261538,Medium
+63,Medium,Married,Full-time,Master,Other,Male,India,193961.5285,566.0426078,50.05808894,35.74696455,High
+47,Low,Widowed,Part-time,Master,Black,Female,Australia,410750.0699,462.0318331,85.55888941,6.589401821,Low
+55,Medium,Married,Unemployed,Associate,Hispanic,Female,USA,484775.9588,442.2877887,53.06951898,16.70556695,High
+55,Medium,Divorced,Full-time,Associate,Black,Male,India,227509.1421,314.2428386,25.52324343,99.28308254,Medium
+62,Medium,Single,Full-time,Associate,Other,Female,USA,253992.8105,456.8664596,67.56440639,56.30129432,Medium
+68,High,Single,Unemployed,PhD,Other,Female,Canada,286513.8089,604.6834724,54.25754525,35.66217988,High
+25,High,Single,Full-time,Master,Black,Female,Australia,466241.7227,300.8806532,23.30446283,28.82026939,Medium
+44,Low,Single,Part-time,Associate,Hispanic,Female,USA,429245.1887,455.7704961,57.36278579,25.69917353,High
+44,Low,Widowed,Part-time,Bachelor,Black,Female,India,86129.96119,784.7756828,82.15355779,66.41527651,Medium
+51,High,Single,Self-employed,Bachelor,Other,Female,Canada,218942.1511,626.5067218,2.857091772,41.93878315,Medium
+38,High,Single,Full-time,PhD,Other,Female,Canada,232536.2137,634.3245532,63.08510386,96.54106994,Low
+47,High,Single,Self-employed,PhD,Asian,Female,India,394758.9597,521.8503678,34.95851958,68.38430306,High
+50,Medium,Single,Full-time,High School,Asian,Male,India,301843.5484,672.0596789,29.26714458,79.2044591,Medium
+45,Medium,Divorced,Part-time,High School,White,Female,USA,327456.0106,404.4630214,39.25877504,29.27415486,High
+64,High,Single,Part-time,High School,Other,Male,UK,499101.7539,750.3107457,34.20226642,7.918640911,Low
+50,Medium,Divorced,Part-time,PhD,Asian,Female,Canada,38405.06169,364.179016,83.22391067,48.78228374,High
+22,Medium,Widowed,Full-time,PhD,Black,Female,USA,112281.9019,660.8007451,27.47978108,31.45815465,Low
+65,Low,Married,Part-time,PhD,Hispanic,Female,India,204540.0727,487.6321292,73.31530231,20.2083165,High
+36,High,Single,Full-time,Bachelor,Black,Female,USA,174543.4191,711.1321338,9.405982023,95.26421308,High
+21,High,Married,Self-employed,PhD,Hispanic,Male,India,11801.13511,602.3705032,95.13963725,44.39882143,Low
+52,Medium,Married,Full-time,Bachelor,Asian,Male,Australia,46797.02563,548.7941712,62.23166372,17.4708592,Medium
+66,High,Widowed,Self-employed,High School,White,Female,India,340795.6924,393.1823212,70.6718577,19.86506527,Medium
+34,Low,Married,Full-time,High School,Black,Male,India,439782.9072,650.2518054,29.80393321,28.07097425,Medium
+61,Low,Divorced,Self-employed,High School,Black,Female,India,257599.2786,836.1234139,41.20965687,99.93162682,High
+45,Low,Married,Part-time,Associate,Black,Female,UK,270056.3487,754.0818837,22.37783863,26.80115005,High
+47,High,Married,Self-employed,Associate,Hispanic,Male,India,128291.623,333.0045059,93.25360858,32.88018046,Medium
+46,High,Married,Part-time,Master,Asian,Male,Canada,384170.3055,506.9261581,48.81044471,65.9328128,High
+63,High,Single,Part-time,Master,Black,Female,Canada,376145.4991,809.0706551,63.04481157,29.39613764,High
+23,High,Single,Self-employed,Master,Black,Female,USA,294594.4789,576.6740612,73.42720305,21.58042511,Medium
+52,High,Divorced,Full-time,Associate,White,Male,UK,107119.479,664.1615042,37.11060911,15.86371866,Low
+58,Low,Divorced,Full-time,Associate,White,Female,USA,49412.0909,801.9296401,72.01016545,31.2682665,High
+54,Medium,Single,Unemployed,Master,Asian,Male,Canada,33055.04935,780.5870797,67.59924898,10.59156896,High
+41,Low,Divorced,Full-time,Master,Asian,Female,Canada,296755.3373,576.0012065,70.56593339,1.864658641,High
+46,High,Single,Unemployed,PhD,Other,Female,Australia,412692.6243,540.7054665,48.92299002,80.46416973,High
+66,Low,Widowed,Full-time,Master,White,Male,India,429306.8855,486.8309402,38.29373823,13.78949424,Low
+63,High,Married,Full-time,PhD,Other,Male,Canada,232347.4151,695.4606937,22.20821882,77.59768498,Medium
+48,High,Married,Part-time,Bachelor,Hispanic,Male,USA,392351.3784,457.8427397,82.46263528,79.7542479,High
+52,Low,Divorced,Unemployed,Associate,Other,Female,USA,473493.218,437.4381835,60.83500465,53.79195263,Medium
+50,High,Single,Full-time,Master,Black,Female,India,138309.8861,495.937442,44.43521961,30.96819583,High
+69,Medium,Single,Unemployed,Associate,Other,Female,India,199582.2128,397.4682813,94.39959067,14.50327337,Low
+38,High,Divorced,Part-time,Associate,Asian,Female,Australia,465808.0173,682.3158988,4.783881251,73.68051067,Medium
+49,Medium,Single,Part-time,Associate,Hispanic,Male,UK,169777.2527,638.9323571,85.01719452,60.1386986,Low
+40,Medium,Widowed,Unemployed,Bachelor,Black,Female,USA,457024.2689,565.5831938,99.75825929,65.54534565,High
+50,High,Married,Part-time,High School,Other,Female,India,490541.3863,514.6791786,88.69421109,0.866908985,Low
+20,Low,Divorced,Self-employed,Master,Hispanic,Female,USA,331243.5536,799.9843986,81.04365856,92.75170157,Low
+35,Medium,Divorced,Self-employed,High School,Hispanic,Male,India,408628.2545,316.0180817,37.43059934,6.629018745,High
+42,Low,Single,Part-time,High School,Black,Female,Canada,375023.2365,723.0092589,23.13141823,36.68058851,High
+59,Medium,Divorced,Self-employed,High School,Other,Female,USA,350067.5946,796.0502645,73.48505205,40.27116497,Medium
+48,High,Widowed,Full-time,Associate,Hispanic,Male,Canada,154158.6054,545.4950187,30.45753663,0.13555245,High
+20,High,Single,Unemployed,PhD,Hispanic,Female,USA,29490.07462,602.8797703,17.60396822,49.70893094,Medium
+57,Medium,Single,Full-time,Associate,White,Female,UK,172182.8145,819.4550283,78.65258871,75.28089945,Low
+63,High,Single,Unemployed,Associate,Hispanic,Male,Australia,333801.0566,416.7526334,31.25436522,82.32686531,Low
+41,Medium,Single,Part-time,High School,White,Female,Canada,52162.06992,586.0741663,91.44417295,87.93969933,Medium
+67,High,Widowed,Full-time,Associate,Other,Female,India,6947.073506,561.0966199,84.06326448,48.77188683,High
+49,Low,Single,Part-time,High School,Other,Female,UK,70706.49393,442.1159563,84.76403295,63.06361905,High
+64,High,Divorced,Part-time,PhD,Other,Male,USA,358152.2273,750.2262767,77.15697261,7.95197133,Low
+39,Low,Widowed,Unemployed,Master,Asian,Female,Canada,486424.0571,794.7803271,88.08814238,48.80382243,Medium
+40,High,Married,Unemployed,High School,Other,Female,USA,491549.2851,730.0629189,80.57468922,15.48157549,Low
+19,Low,Married,Unemployed,PhD,Hispanic,Male,USA,247495.5954,407.4474285,60.25113636,36.96431176,Low
+44,High,Divorced,Full-time,Master,Black,Male,USA,434806.7982,347.7117495,29.58227186,32.93053129,High
+59,Low,Divorced,Self-employed,Bachelor,White,Female,Australia,368676.4014,632.9944669,88.82091932,42.35405772,Medium
+19,Medium,Widowed,Unemployed,High School,Asian,Female,Australia,251019.0783,331.4021183,84.06036228,57.1636618,Low
+43,Medium,Married,Unemployed,High School,Other,Female,India,286807.5059,670.0542387,47.28793222,90.28766471,High
+34,Low,Married,Full-time,Bachelor,Other,Female,Canada,69476.34616,591.7333212,3.9078686,39.44846313,Low
+57,High,Married,Unemployed,Bachelor,Black,Male,UK,468893.0688,664.532153,63.85437274,98.11311957,Low
+50,Low,Married,Full-time,High School,Black,???,UK,176612.9556,624.5939255,5.059685368,75.90280481,High
+26,High,Married,Part-time,Bachelor,Asian,Male,UK,223628.479,532.4864132,92.62799618,51.14810468,High
+60,Medium,Single,Unemployed,Associate,White,Male,USA,336158.4553,410.4824491,96.16312566,64.40264371,Medium
+65,High,Divorced,Unemployed,Master,Other,Female,Australia,167617.3333,468.1361747,18.94901459,10.22241711,Low
+56,Medium,Single,Part-time,Master,Asian,Female,Canada,127875.3213,588.4753158,67.63893781,84.45215313,Medium
+46,High,Married,Part-time,Master,Hispanic,Male,USA,315893.6472,658.5274515,9.226900456,58.23574551,High
+59,High,Widowed,Part-time,Associate,Hispanic,Male,Australia,13467.05706,728.7156593,72.95169286,98.60674802,High
+43,High,Widowed,Unemployed,Bachelor,Asian,Female,Australia,360641.8309,721.9438951,34.72876662,63.64287438,Low
+52,Low,Married,Self-employed,PhD,Other,Male,Canada,257497.6616,834.9788088,68.10501117,83.41115833,Medium
+67,Low,Married,Self-employed,Bachelor,Asian,Female,Canada,303271.1115,457.2127968,37.28765092,79.97627428,Medium
+42,Medium,Widowed,Self-employed,High School,Other,Female,Canada,316308.1995,339.1108895,14.55675098,34.54611515,Low
+41,Medium,Single,Unemployed,Master,Black,Male,USA,263998.0281,490.1113145,40.61099805,25.96106252,Low
+30,Low,Single,Part-time,Bachelor,Asian,Male,India,291684.3549,708.8119614,11.26735266,43.04935834,Medium
+24,Medium,Married,Unemployed,PhD,Other,Female,Canada,342210.3122,540.9614081,57.6883275,46.72413444,High
+53,Low,Single,Part-time,High School,Asian,Male,India,376806.3047,749.7836368,4.095153215,24.00847019,High
+62,High,Widowed,Unemployed,Associate,Asian,Female,USA,363998.7433,602.1295009,52.73196796,89.45978734,Low
+37,Medium,Single,Unemployed,Associate,Other,Female,India,434938.6124,811.3854474,88.63686471,54.25478623,Medium
+18,Medium,Married,Part-time,PhD,Other,Female,UK,95532.27315,821.3248931,83.78732701,97.84443922,Medium
+25,Low,Widowed,Self-employed,High School,White,Male,India,201172.8368,338.1174783,88.27816996,81.0017778,Medium
+63,Medium,Single,Part-time,Master,Asian,Female,Canada,473950.2369,551.0273918,92.20488021,55.57048604,High
+33,Medium,Divorced,Full-time,Bachelor,Hispanic,Female,USA,198898.6966,635.3289837,10.45278879,94.70402781,High
+31,High,Widowed,Full-time,High School,Asian,Female,Canada,63310.16838,440.7298974,12.87472029,50.48748151,Medium
+29,Medium,Widowed,Part-time,Associate,Asian,Female,UK,263197.1181,523.8922287,55.70068063,88.71065125,Medium
+68,High,Divorced,Unemployed,PhD,Other,Female,Canada,55635.9953,672.7248476,89.39726684,35.81447812,Low
+40,Low,Divorced,Full-time,PhD,Asian,Female,Canada,102223.7661,424.7038248,97.43494565,37.86423834,Low
+32,Medium,Widowed,Full-time,Bachelor,Asian,Female,Canada,499161.0595,631.0897441,4.626191734,41.8130683,Medium
+45,High,Divorced,Unemployed,PhD,Hispanic,Female,Australia,271139.9566,683.5963055,35.57740842,54.66256459,Medium
+51,Low,Married,Unemployed,PhD,Other,Female,UK,142745.1361,349.7729711,21.28942547,55.34902702,High
+19,Medium,Married,Self-employed,High School,Asian,Female,Canada,497392.7023,573.6411238,75.59658489,49.63989217,Medium
+49,Low,Married,Unemployed,Master,Black,Female,Canada,483312.9004,444.6940165,64.01938685,30.60009736,Low
+40,Medium,Widowed,Part-time,Bachelor,White,Male,Canada,220928.7815,698.4124958,11.98880315,92.72064648,High
+39,Low,Divorced,Part-time,High School,Hispanic,Female,USA,130941.1513,404.2555297,48.35220674,58.85860973,Low
+68,Low,Divorced,Self-employed,Master,Asian,Female,Australia,419361.4194,790.7308535,68.54405224,40.77392162,Low
+42,High,Single,Full-time,High School,Black,Female,USA,358094.7378,537.0177351,77.90053939,65.11769607,High
+39,Low,Single,Full-time,High School,Asian,Male,Australia,343783.7761,408.9016667,2.005270978,76.79667578,Low
+39,Medium,Divorced,Unemployed,PhD,Asian,Female,Canada,446663.7569,540.911988,89.0469574,96.07280882,Medium
+66,Medium,Divorced,Part-time,Master,Other,Male,UK,345019.1498,524.8090695,56.9281383,49.95491623,Low
+69,High,Divorced,Full-time,Bachelor,Other,Female,India,142615.1736,535.9054277,81.1909115,11.20985104,High
+59,Medium,Widowed,Self-employed,Bachelor,Other,Female,India,347237.7178,622.0587114,80.793803,44.07658014,High
+23,Medium,Divorced,Self-employed,Master,Black,Male,Canada,153600.9421,586.6455487,18.98526603,47.89705615,High
+32,Medium,Single,Part-time,PhD,Asian,Female,USA,379860.2508,382.3774224,11.01721203,89.69940782,Low
+60,Low,Widowed,Self-employed,Associate,White,Male,UK,310254.1794,336.06849,72.1287269,39.48007685,Medium
+54,Low,Divorced,Self-employed,High School,Hispanic,Male,Australia,39628.36444,701.1784968,15.64269188,95.33242649,High
+50,Medium,Single,Part-time,PhD,Other,Female,Canada,256904.8459,607.8445898,84.99374914,48.51319077,Medium
+25,High,Widowed,Unemployed,Master,Other,Female,UK,172307.1836,497.4504224,72.61894839,97.3780501,High
+61,Low,Divorced,Unemployed,High School,Asian,Female,UK,164956.7457,744.5968024,84.18253644,0.819832113,Medium
+61,High,Divorced,Self-employed,Bachelor,Asian,Female,Australia,301525.8949,513.4321608,29.90126796,89.88153748,Medium
+22,Medium,Divorced,Unemployed,Associate,Black,Male,UK,161840.0874,737.7807993,31.65980604,93.11204519,Medium
+56,Medium,Widowed,Unemployed,Bachelor,Black,Male,USA,388669.9804,468.1658701,67.12215563,96.10209358,High
+21,Low,Single,Self-employed,Master,Other,Female,USA,36324.92657,340.0649136,3.144595506,1.307653417,Low
+23,Medium,Single,Unemployed,High School,Asian,Male,USA,330533.7379,812.9518316,72.64967463,17.17008366,Low
+62,Low,Married,Self-employed,Master,White,Male,UK,404788.207,517.0031211,83.57830709,65.37645031,Low
+49,Medium,Divorced,Full-time,High School,Hispanic,Female,USA,336743.0133,735.9809151,41.51635866,2.547269174,Medium
+69,Medium,Married,Part-time,PhD,Asian,Male,Australia,249117.3683,453.5292733,76.48788301,6.360899618,High
+47,Low,Married,Part-time,Associate,Asian,Male,UK,475203.1999,655.5008117,17.4610917,22.10788737,Medium
+64,Low,Single,Unemployed,PhD,Black,Female,India,150669.3064,780.3209803,32.22603938,51.24397687,High
+52,Low,Widowed,Unemployed,PhD,Hispanic,Male,UK,10564.77587,322.9042123,97.43049631,54.59025593,Medium
+57,Medium,Widowed,Unemployed,Master,Other,Female,Australia,216562.6964,756.8496706,98.63281736,3.426112279,High
+69,Medium,Single,Part-time,Associate,Asian,Male,India,17472.95601,614.2331527,51.2605053,17.03672508,High
+33,High,Widowed,Full-time,High School,Other,Female,UK,477014.4395,634.1094646,93.42697915,49.97056733,High
+30,Low,Married,Full-time,High School,Asian,Male,USA,105749.1048,587.7369004,52.27306781,59.39406209,Medium
+67,Medium,Divorced,Part-time,Bachelor,Other,Male,Canada,394674.585,780.9613068,29.15881282,14.84016965,Low
+59,Medium,Single,Full-time,High School,Hispanic,Female,Canada,387511.4695,323.8883465,26.68992881,39.88414119,Medium
+47,Low,Divorced,Part-time,Master,Black,Female,USA,109646.7209,443.5656153,92.95057054,90.44014365,Medium
+36,High,Widowed,Full-time,PhD,Hispanic,Female,Canada,310992.0387,781.6693964,17.2446389,99.8899287,High
+34,Low,Divorced,Self-employed,PhD,White,Female,Canada,24991.40527,713.7901364,57.96324582,98.72144548,High
+36,High,Widowed,Self-employed,PhD,Black,Male,USA,242303.7183,309.7048381,55.55250681,88.16745103,Low
+45,Medium,Widowed,Part-time,Associate,Hispanic,Male,USA,8308.916509,584.3534558,73.96216847,39.46600879,Low
+43,High,Married,Full-time,High School,White,Male,UK,460650.7962,591.2649744,49.92429075,68.65742921,High
+54,Medium,Widowed,Unemployed,Master,Asian,Female,UK,488066.9261,520.4851743,27.22856607,41.65922278,Low
+43,Low,Married,Full-time,Associate,Asian,Male,USA,111919.1006,463.5663326,16.93964996,64.85270268,Low
+40,Low,Married,Self-employed,Bachelor,Other,Male,Australia,104844.9113,674.9486677,62.08188035,30.9432471,High
+26,Low,Married,Self-employed,Master,Black,Female,Canada,377106.3681,414.2847556,71.89907569,60.62022536,Medium
+29,High,Single,Full-time,Master,Asian,Female,UK,127436.32,739.4217091,56.95212787,52.37584966,Low
+18,Medium,Single,Full-time,Master,Black,Male,Canada,447643.203,741.6704384,73.83512771,2.448026581,High
+18,Low,Widowed,Unemployed,PhD,Asian,Female,India,287390.6389,528.3937907,14.15212024,79.07029037,Low
+64,Low,Married,Unemployed,Master,Other,Male,USA,176038.0339,455.951406,88.24701949,1.189783225,Low
+51,Medium,Single,Full-time,High School,Hispanic,Male,Australia,416514.1794,456.1329999,58.23955084,29.31559423,High
+49,Low,Married,Full-time,Master,Other,Female,India,247209.9435,565.2602282,12.68439269,0.592406545,Low
+65,Medium,Divorced,Full-time,PhD,White,Male,India,455904.8239,695.7685736,46.19252042,37.62014133,Low
+42,Medium,Divorced,Full-time,Master,Asian,Female,India,464079.1041,497.37778,84.47917379,6.316052816,Low
+57,Medium,Divorced,Part-time,Bachelor,White,Female,USA,83544.65591,635.52384,89.75621935,91.35109668,Medium
+62,Medium,Widowed,Full-time,Bachelor,White,Male,UK,2159.37966,510.3664533,26.4649505,41.56792952,Medium
+18,Medium,Married,Unemployed,PhD,Black,???,USA,491981.5391,467.487754,71.12658247,45.94957749,Low
+33,High,Divorced,Self-employed,High School,Asian,Male,UK,453162.6305,313.6727338,9.998524748,34.98502361,High
+56,Low,Single,Part-time,High School,White,Female,India,28667.17262,302.1527582,3.354587141,62.75061542,Low
+22,High,Divorced,Full-time,Associate,Hispanic,Male,India,416684.0977,424.9642228,56.03989538,78.44081166,Low
+39,Low,Divorced,Self-employed,PhD,White,Female,Australia,229444.6613,523.5234577,69.48275793,64.8146743,Medium
+46,High,Divorced,Part-time,Master,Hispanic,Female,UK,130221.8409,768.193642,79.57867312,74.82071184,Medium
+20,Medium,Widowed,Self-employed,PhD,Black,Male,India,439494.5153,739.1663336,34.02162385,90.59736635,Medium
+29,Low,Single,Full-time,Associate,White,Female,Canada,99136.94896,446.9408944,0.652541043,86.35465317,Low
+43,Low,Married,Full-time,PhD,Other,Male,Australia,473702.6997,434.4972436,47.95192371,67.40584528,Low
+33,High,Single,Unemployed,PhD,Black,Male,USA,103605.1224,425.0271391,1.585354537,21.46379629,High
+68,High,Married,Full-time,Associate,Hispanic,Male,Australia,307227.9107,486.5805373,9.198451067,63.7702851,Low
+54,Low,Widowed,Full-time,High School,Black,Male,Canada,112320.0809,574.0092958,32.66890225,50.60830957,Low
+39,High,Widowed,Part-time,Master,White,Male,UK,273288.6638,541.2672746,43.71720496,71.7219231,Medium
+46,High,Widowed,Unemployed,Associate,Asian,Male,USA,342303.5898,420.0502593,27.94694412,83.29316484,Medium
+31,High,Widowed,Part-time,Bachelor,Asian,Male,USA,95923.73748,371.7482755,58.18652665,74.27214972,Medium
+45,Medium,Married,Self-employed,High School,Hispanic,Female,UK,260922.0056,306.9177969,5.534978922,84.656117,Medium
+22,Medium,Divorced,Full-time,Bachelor,Hispanic,Male,Australia,235060.8125,384.6797813,14.45797102,6.386637334,Medium
+64,High,Married,Self-employed,High School,Asian,Female,India,36447.67328,687.9460036,69.52584008,3.162003824,High
+66,High,Single,Part-time,Master,Hispanic,Female,Australia,409335.601,434.0012131,14.21408536,25.85005677,High
+47,Medium,Widowed,Full-time,Master,Black,Female,Canada,168505.5179,557.7309956,63.97752016,90.06660841,High
+63,Medium,Widowed,Full-time,PhD,Other,Male,India,287716.5166,625.2156319,5.468462075,82.3659251,Medium
+69,Low,Single,Part-time,Bachelor,Other,Female,Australia,257877.3332,787.7624966,40.73822791,68.27272978,Medium
+22,Low,Married,Part-time,High School,Black,Female,UK,257116.9918,788.8703041,17.74094701,70.07586674,Medium
+29,Medium,Divorced,Part-time,Master,Other,Male,Canada,54503.97471,710.1535535,10.96362825,72.66704693,High
+33,High,Divorced,Part-time,Associate,White,Male,Canada,212317.5226,319.3363456,56.70327835,94.26027005,Medium
+43,High,Single,Part-time,Master,Black,Female,Canada,226731.0128,616.2887305,92.8335772,83.21911523,High
+43,High,Divorced,Full-time,Associate,Hispanic,Male,India,367087.7773,732.620909,5.478704792,62.3390387,Medium
+65,High,Married,Part-time,High School,Black,Male,USA,420169.3971,309.5084246,42.15542482,66.57154353,Low
+38,Low,Married,Full-time,Master,Asian,Male,India,272946.1568,602.3265375,70.75354377,21.37402621,High
+56,Medium,Single,Full-time,Master,Hispanic,Male,Australia,44304.69408,771.7702802,46.26878317,65.73188252,Low
+53,High,Married,Part-time,High School,Asian,Female,USA,119187.8858,560.7561417,80.64959461,42.46790124,High
+50,Low,Widowed,Part-time,Master,Hispanic,Male,Australia,83302.0794,302.2584116,17.96453159,15.29618706,Medium
+47,High,Single,Unemployed,Associate,Other,Male,USA,63182.91653,306.0573471,95.9594205,80.64028192,Medium
+54,Medium,Married,Full-time,Master,Black,Male,India,183583.75,529.1498206,38.51626278,51.02470998,Low
+40,Low,Single,Part-time,Bachelor,White,Female,Canada,115467.3576,385.2547671,34.15696329,97.74250417,Medium
+27,Medium,Divorced,Part-time,PhD,Hispanic,Female,UK,109933.2528,665.4478614,87.46057945,28.16793545,High
+22,Medium,Married,Part-time,Associate,Hispanic,Male,Canada,28291.89411,689.8395957,56.38670319,48.06701123,Medium
+53,Low,Widowed,Unemployed,Bachelor,Asian,Male,India,9817.352353,397.8338875,51.64443419,44.79954547,Medium
+51,Low,Married,Unemployed,High School,Other,Female,USA,52281.35308,788.6933087,72.69779195,12.07795224,High
+69,Low,Single,Self-employed,Associate,Asian,Male,Canada,86926.54223,543.0493147,57.98342383,42.61152788,Low
+48,Low,Single,Full-time,PhD,Asian,Male,India,216060.8807,378.5652492,16.25156448,28.75534564,Low
+27,Low,Married,Self-employed,PhD,Other,Female,Australia,255749.6104,720.3383789,67.41976229,16.03204714,Medium
+36,Low,Widowed,Part-time,High School,White,Male,UK,71155.36717,734.485975,13.34688793,28.2155584,High
+49,Low,Widowed,Unemployed,High School,Asian,Male,Canada,212966.8874,651.61251,80.58577053,23.32516913,Low
+18,High,Widowed,Unemployed,Associate,Asian,Female,USA,171532.6723,769.4060543,98.97365977,73.4073531,Low
+22,Medium,Single,Self-employed,Master,Hispanic,Female,Australia,92528.39811,705.5551346,37.7387625,3.077517826,Medium
+62,Low,Married,Unemployed,High School,Other,Male,India,4413.533326,785.2131555,44.47558982,61.74627479,High
+21,High,Divorced,Part-time,Master,Black,Female,UK,234041.9154,538.6384267,4.643365548,76.0661342,Low
+33,High,Single,Unemployed,Bachelor,White,Male,USA,343140.2229,711.1784205,1.373318808,48.07234565,Medium
+41,High,Widowed,Self-employed,PhD,White,Male,India,113912.3897,849.8633599,92.14193349,93.156498,Medium
+33,Medium,Married,Part-time,Master,Other,Male,India,66771.60812,698.7121586,12.86240604,70.78806952,Medium
+19,Low,Widowed,Self-employed,PhD,Hispanic,Female,Canada,443634.3295,362.8010791,44.57787476,74.79236513,Medium
+66,High,Divorced,Unemployed,Master,Hispanic,Female,Canada,138237.3615,585.0752973,81.53546239,19.69334874,Low
+45,Medium,Widowed,Self-employed,Bachelor,Other,Male,USA,112582.6973,623.0412852,88.93187599,77.72955758,High
+49,Medium,Widowed,Self-employed,High School,Hispanic,Male,India,428691.3729,395.8158713,51.93976853,83.20947361,Medium
+44,Medium,Divorced,Full-time,Bachelor,White,Female,Canada,408736.4425,829.5903988,56.5032525,36.12663884,Medium
+37,High,Married,Unemployed,High School,White,Female,UK,224724.8888,396.5688777,66.96839725,21.3363068,Low
+41,Low,Single,Unemployed,High School,Black,Female,UK,245130.1919,397.6568558,96.13824701,38.50506792,Medium
+29,High,Married,Self-employed,PhD,Other,Male,India,109656.6037,803.3419259,60.26699609,73.9607969,Medium
+67,High,Divorced,Full-time,Bachelor,Asian,Female,Canada,40072.53357,555.8629882,55.94752595,41.76390059,High
+52,Low,Widowed,Unemployed,Master,Asian,Female,USA,287142.4809,334.7535536,1.453413527,73.66518752,Medium
+50,Low,Married,Part-time,Bachelor,Black,Male,USA,50074.11587,629.003125,8.094970202,11.3564541,Low
+50,Low,Single,Self-employed,PhD,Black,Male,USA,225187.9989,631.0044917,57.71716266,80.60117105,High
+68,Medium,Divorced,Unemployed,High School,Hispanic,Male,UK,470308.1021,335.4754173,93.62403878,25.32074816,Low
+60,Low,Married,Part-time,PhD,Black,Female,Canada,476464.3602,834.8873726,86.66913484,24.89289877,High
+54,High,Single,Unemployed,Associate,Black,Male,Canada,120426.811,599.2164809,98.2578923,59.03809652,High
+29,Low,Divorced,Part-time,Associate,Asian,???,UK,312432.5966,607.8876472,52.78340376,7.011804575,Medium
+20,High,Single,Self-employed,Master,Hispanic,Male,USA,237564.0558,586.063478,78.79309384,2.629772668,Medium
+18,Medium,Divorced,Unemployed,PhD,Black,Male,USA,437966.8787,635.9024788,84.04003315,26.10286653,Medium
+50,High,Widowed,Unemployed,Master,Black,Female,India,136444.0013,445.364864,64.80316573,53.80675507,Low
+57,High,Married,Full-time,Master,Hispanic,Male,Australia,2847.501009,457.9827414,33.87499042,90.76163862,Medium
+27,Low,Single,Self-employed,Associate,Other,Female,Canada,82118.04176,581.2364994,46.99784347,84.64351763,Medium
+60,Low,Divorced,Part-time,Master,Hispanic,Female,Canada,175411.8778,743.6772201,85.79170722,49.04464599,High
+61,High,Single,Unemployed,Associate,Asian,Female,Canada,158544.8438,327.4255171,29.8547926,3.705199369,Medium
+46,Low,Single,Unemployed,High School,Other,Male,Australia,395890.0966,631.8723167,92.37431313,53.52527346,Medium
+30,Medium,Married,Part-time,PhD,White,Female,India,340599.7724,743.7279784,22.98063414,70.47955999,Medium
+29,Medium,Widowed,Self-employed,Master,Hispanic,Male,Australia,150478.6035,386.3044996,74.95164152,33.91645325,Medium
+48,Low,Single,Full-time,Associate,Asian,Male,USA,229414.1648,308.2623981,63.05592343,11.10633033,High
+63,Medium,Divorced,Full-time,Bachelor,Other,Male,USA,48683.99288,471.9923123,74.95994411,27.85679532,Medium
+19,Low,Divorced,Unemployed,Master,Hispanic,Female,Canada,449175.076,623.4790387,43.73475724,77.15888645,High
+68,High,Widowed,Part-time,High School,Black,Male,UK,467776.9874,376.0557454,93.26410626,35.12438323,Low
+67,High,Divorced,Unemployed,High School,Hispanic,Male,Canada,489921.9642,534.367304,63.24722024,81.19814907,Medium
+52,Medium,Widowed,Part-time,Bachelor,White,Male,UK,434407.8626,603.7768236,28.82958046,31.95214518,Medium
+40,Low,Divorced,Full-time,Associate,Hispanic,Female,Australia,87806.48296,629.3857021,63.84550707,16.35550384,Medium
+34,Low,Married,Self-employed,Master,Other,Female,USA,24052.04512,450.9264466,28.68157472,43.58483595,High
+43,Medium,Single,Part-time,Associate,Other,Female,UK,290218.767,520.0162998,29.36323918,45.22745123,Medium
+25,High,Married,Full-time,High School,Hispanic,Male,Australia,456389.9084,728.086576,39.95985116,1.610821855,Medium
+46,Medium,Single,Unemployed,Associate,Other,Female,USA,89498.32947,817.6680818,85.24304176,11.70450727,Low
+43,High,Single,Part-time,High School,Black,Male,UK,4514.414397,774.0341821,50.02978744,18.49260188,High
+27,Low,Single,Self-employed,Associate,Hispanic,Male,Canada,402942.527,610.355926,67.89008422,11.35873174,High
+43,High,Married,Unemployed,Bachelor,Black,Female,Canada,39321.04646,525.6610416,39.19677403,34.15260754,Low
+51,Medium,Single,Unemployed,PhD,Black,Male,Canada,207439.3099,483.1261379,26.36054398,96.46228556,High
+68,Low,Married,Full-time,Bachelor,Asian,Female,Australia,339764.7813,368.7261113,95.46401607,50.92225383,Medium
+58,Medium,Widowed,Part-time,Bachelor,Hispanic,Male,Canada,119161.9951,358.603186,60.35812471,62.75560239,Medium
+24,Medium,Divorced,Unemployed,PhD,Other,Female,India,42897.31916,678.5966937,93.39513386,35.63864785,Low
+21,High,Divorced,Self-employed,PhD,Black,Male,USA,385240.593,442.8869289,20.34130022,32.34877616,High
+67,Medium,Single,Part-time,Master,Asian,Male,Australia,315457.3674,440.0639275,14.68941639,2.314677192,High
+62,High,Married,Self-employed,Master,Hispanic,Male,Canada,494256.7518,849.00728,85.58229071,50.03336557,High
+28,Low,Divorced,Unemployed,Bachelor,Hispanic,Male,USA,172809.7086,403.3592768,68.09172126,48.36090068,Low
+46,High,Married,Self-employed,Bachelor,White,Male,UK,31819.43076,381.4328677,18.65784993,15.78307262,Medium
+53,Low,Married,Full-time,High School,White,Female,Canada,367440.6676,354.2768753,26.93597007,76.43240002,Low
+42,High,Single,Self-employed,High School,Black,Male,USA,261344.976,618.8929398,80.06639415,49.26743303,Medium
+38,Medium,Divorced,Part-time,Master,White,Female,India,107388.7618,645.3251043,45.386862,33.89939702,Low
+53,High,Single,Self-employed,Master,Black,Female,UK,391082.7655,500.8753594,67.05405065,14.6908909,Medium
+27,High,Single,Self-employed,High School,Other,Female,India,102673.9874,594.4773345,31.83520221,55.2160827,High
+54,Low,Divorced,Full-time,High School,Black,Male,USA,131070.1658,733.619742,38.12299528,75.28170261,High
+26,Medium,Divorced,Self-employed,Associate,White,Male,India,47171.74863,749.9572926,99.07125586,28.19993527,High
+41,High,Widowed,Self-employed,Associate,Other,Male,USA,200316.7072,826.8516416,24.76170872,21.87943516,Low
+52,Medium,Widowed,Unemployed,High School,White,Female,USA,210045.6827,753.3473923,50.6456377,52.19349641,Low
+66,High,Married,Unemployed,Associate,Black,Male,India,257766.3334,610.6627902,84.44023432,15.53433025,Low
+52,High,Divorced,Part-time,PhD,Asian,Male,USA,354773.1693,398.8113312,23.92232137,66.66133866,High
+65,Medium,Widowed,Unemployed,Master,Hispanic,Female,Canada,453144.3634,354.8699567,41.52137567,60.53436279,Medium
+53,High,Married,Unemployed,Master,White,Female,USA,69729.31535,329.9815395,61.50912874,8.708204959,High
+35,Medium,Married,Unemployed,High School,Black,Female,Australia,28119.70108,666.5892075,48.11881515,3.652037938,High
+66,High,Married,Unemployed,Bachelor,Other,Female,USA,10247.08556,744.1449405,45.95022666,62.02886526,Medium
+56,Low,Widowed,Full-time,High School,White,Female,Australia,72667.06766,579.7761729,36.25097313,29.4293774,Medium
+49,Medium,Divorced,Unemployed,Associate,White,Female,USA,329316.7934,330.0927962,58.66463278,8.644575317,Medium
+41,High,Single,Full-time,Bachelor,Hispanic,Male,USA,364011.0619,594.508816,62.43726979,75.9428705,Medium
+40,High,Married,Full-time,Associate,Black,Female,India,393466.3511,814.6620938,65.32895409,31.4044003,High
+49,Low,Widowed,Unemployed,PhD,Asian,Male,Canada,122610.3977,628.687255,7.036810791,45.95995496,Low
+54,Medium,Widowed,Self-employed,Associate,Other,Male,Canada,153641.5118,745.1851187,63.10341757,23.68129275,High
+29,High,Single,Full-time,PhD,Black,Male,UK,242084.1881,740.0839566,95.32371788,62.73170784,Medium
+66,Low,Single,Self-employed,PhD,Other,Female,India,32528.36533,812.6710049,54.09862355,30.14884154,Low
+30,High,Widowed,Self-employed,Associate,White,Male,India,305959.6201,723.6258211,71.52670825,96.80209612,Low
+40,Medium,Divorced,Unemployed,Associate,Hispanic,Female,Canada,491883.7818,711.2352827,55.67323078,70.29475486,High
+42,High,Single,Part-time,PhD,Hispanic,Female,India,181042.3494,428.7564657,85.47406186,13.67222764,High
+52,High,Widowed,Unemployed,Bachelor,Asian,Male,Canada,376670.8901,332.9588354,92.95830946,41.66948397,High
+58,High,Single,Part-time,PhD,Hispanic,Female,India,250516.9239,584.6797058,18.42198993,38.54210997,Low
+47,High,Divorced,Part-time,Master,White,Male,USA,64778.11034,368.4388144,43.68600366,53.42471107,Low
+34,Low,Married,Unemployed,PhD,Asian,Male,Canada,291536.487,829.207732,39.23821009,84.19306745,Low
+66,Low,Single,Unemployed,Bachelor,Black,Female,Canada,150637.26,459.4586194,40.52151233,58.34220152,Medium
+37,Medium,Divorced,Part-time,Master,Hispanic,Male,Australia,18167.20102,769.1193119,12.55241812,6.15566776,Medium
+65,Low,Widowed,Unemployed,High School,Asian,Male,India,317829.9353,513.1935439,81.3615726,65.54156968,High
+42,Low,Single,Part-time,High School,White,Male,India,429607.2423,477.7568374,3.576624301,0.826529795,Low
+39,Medium,Single,Self-employed,Bachelor,Other,Female,Canada,173040.1137,814.3372148,52.82266077,77.99604605,High
+30,Low,Widowed,Unemployed,PhD,Other,???,USA,195757.4781,499.8274146,66.1878388,66.66360724,Low
+36,Low,Married,Self-employed,Associate,White,Female,USA,445619.8198,514.6583498,20.74694381,30.87856584,High
+66,Medium,Widowed,Full-time,Bachelor,White,Female,USA,406990.7979,358.3504788,90.58501921,29.24418046,Medium
+53,Medium,Single,Self-employed,Master,Other,Male,India,357761.459,668.7456659,83.8549207,79.82729965,Low
+29,Medium,Widowed,Self-employed,Master,Asian,Male,Australia,125149.7348,458.861678,47.10837295,78.33366919,Medium
+58,High,Divorced,Part-time,High School,Other,Female,Canada,455198.1108,622.0822923,41.11489323,35.23023544,Low
+36,High,Widowed,Self-employed,Master,White,Female,UK,78053.46301,625.2434372,23.65679252,29.89477281,High
+29,Medium,Single,Unemployed,Bachelor,Hispanic,Male,Australia,313758.4892,695.5598326,72.99932246,55.98247889,Low
+26,Medium,Widowed,Part-time,Master,Black,Male,UK,15371.78909,709.8828174,13.17437996,0.836565998,Medium
+24,Medium,Married,Full-time,Bachelor,Hispanic,Female,Australia,322216.1834,582.9488389,68.02377538,8.266703799,Low
+45,High,Widowed,Unemployed,Associate,Hispanic,Female,USA,139295.0316,482.0455712,84.24569861,12.61695901,High
+31,High,Married,Full-time,High School,White,Female,India,225388.8116,760.5979922,22.84715759,18.54118178,Low
+48,Low,Divorced,Self-employed,Master,Other,Female,UK,173287.0115,470.4261072,86.64274029,51.20181267,Medium
+69,Low,Married,Unemployed,Bachelor,Asian,Female,Australia,87205.62137,579.130002,3.332319944,99.22419149,High
+36,Medium,Widowed,Unemployed,PhD,Hispanic,Male,India,311368.4143,520.6889208,91.27873854,65.26134017,Medium
+64,High,Single,Full-time,High School,Other,Female,UK,441105.802,770.2931123,11.83622279,6.129879445,Low
+33,High,Married,Unemployed,Associate,Asian,Female,Canada,479583.0369,537.5551921,64.57591779,52.55793741,Medium
+22,High,Divorced,Unemployed,Bachelor,Hispanic,Male,Australia,96980.83521,512.3545539,25.00824689,49.66452124,Low
+52,Medium,Married,Unemployed,Associate,Asian,Male,Canada,358969.0143,679.4030311,83.65523912,14.41678158,High
+29,Low,Married,Self-employed,Associate,Other,Female,USA,332505.3439,631.3426104,51.23003609,92.02723688,Medium
+42,Medium,Married,Full-time,Master,Black,Female,Canada,172345.517,358.9857584,13.52411912,44.07652477,Medium
+69,Low,Divorced,Unemployed,Master,Other,Male,Canada,10530.50048,579.4928435,57.09915713,99.45591406,Low
+38,Low,Widowed,Part-time,Bachelor,White,Female,Australia,345205.8324,704.5131136,40.78826102,42.00722953,Medium
+53,Medium,Married,Part-time,PhD,Asian,Female,USA,472801.9354,845.6411205,66.14478166,60.79577027,Medium
+40,Low,Married,Part-time,Bachelor,Black,Male,Canada,316427.9408,646.0307587,88.19032848,10.47625365,High
+33,Low,Single,Part-time,PhD,Asian,Female,India,218211.0694,503.6611865,40.93891312,45.42278238,Low
+56,High,Divorced,Self-employed,Associate,Asian,Male,UK,263051.7932,424.3833799,28.98806795,23.8765894,Low
+62,Low,Married,Unemployed,High School,Hispanic,Male,Canada,100614.775,780.0566288,1.451509453,83.55647986,High
+59,Medium,Divorced,Full-time,Bachelor,White,Male,USA,375521.5377,748.0108667,57.48390379,78.39195849,High
+56,Medium,Married,Unemployed,Bachelor,Asian,Male,Canada,373463.4952,428.6575514,40.22747674,82.41799996,Low
+31,Low,Widowed,Self-employed,PhD,Other,Female,UK,73613.13289,410.3476496,37.4649219,72.36094378,High
+48,High,Widowed,Part-time,Associate,Other,Male,USA,439111.2129,693.3252272,18.29353213,83.26832236,High
+22,High,Married,Self-employed,Associate,Hispanic,Female,Australia,135325.68,473.2236341,43.00553452,20.08287502,High
+52,Low,Widowed,Unemployed,PhD,White,Female,USA,491145.7744,468.5193391,98.44419536,45.20437766,Low
+40,Low,Married,Full-time,Associate,White,Female,Australia,192068.604,383.7596359,29.77541537,69.18468799,High
+46,Medium,Widowed,Self-employed,Master,Other,Female,USA,89764.14531,445.1865358,59.97044134,63.73924979,Medium
+60,Low,Single,Full-time,High School,Black,Female,UK,176508.3356,535.1291567,77.64868813,71.63544829,Medium
+28,High,Single,Self-employed,Bachelor,Hispanic,Male,UK,220649.984,703.0610855,74.91578232,22.42583832,Low
+35,Low,Single,Full-time,High School,Hispanic,Male,USA,35584.57875,484.9694519,32.87742875,9.843470904,High
+64,Medium,Divorced,Full-time,Bachelor,Other,Male,Canada,289530.9722,480.7323867,61.08600835,91.68065781,Medium
+29,Medium,Divorced,Part-time,Master,Other,Male,UK,299218.5875,456.7022889,87.12646853,56.01718956,Low
+26,Medium,Single,Full-time,Associate,Black,Female,Australia,369726.2972,563.0560171,1.544742773,15.38259245,Medium
+27,Medium,Divorced,Part-time,PhD,Black,Male,Australia,15555.77625,399.3501839,43.57343568,79.34365819,High
+61,Medium,Widowed,Unemployed,Master,White,Female,India,271077.869,567.0969037,22.42734182,91.49299366,Low
+34,Low,Married,Unemployed,High School,Hispanic,Female,Australia,27400.8092,687.2965559,38.86322904,16.95635186,Medium
+55,Low,Married,Part-time,PhD,Hispanic,Male,India,350870.9658,316.3847772,41.5989608,81.74124553,Low
+24,Low,Married,Part-time,Associate,Other,Male,USA,28808.26486,305.3786592,74.66709648,93.32250613,Medium
+63,Low,Single,Self-employed,Master,White,Male,USA,455952.1963,341.3176006,9.38218724,93.83616003,Medium
+30,Medium,Divorced,Self-employed,PhD,Hispanic,Male,USA,351339.2009,594.613034,51.25839031,91.41564617,High
+57,High,Widowed,Self-employed,Master,White,Female,Canada,254187.4928,769.9502958,56.41947918,54.64210124,High
+59,Low,Widowed,Unemployed,Master,White,Female,Canada,221310.4577,302.6864563,49.41576036,35.62113173,Medium
+26,High,Single,Self-employed,Associate,Other,Male,India,66205.64258,815.1637175,73.18732531,0.727280769,Low
+67,Low,Widowed,Full-time,Bachelor,White,Female,Australia,146208.6954,358.4531814,38.37912559,6.091222687,Low
+44,Low,Widowed,Full-time,PhD,Black,Female,Australia,434610.5934,763.0909404,94.49670636,42.88390153,High
+19,High,Widowed,Self-employed,Associate,Black,Female,USA,452321.953,565.5701207,48.18034425,39.93261464,Medium
+22,Medium,Widowed,Full-time,Master,Asian,Male,UK,1373.106477,662.646563,57.12139096,18.47139096,High
+46,Low,Divorced,Unemployed,Associate,Other,Female,Canada,297474.0593,580.8756414,82.55308233,39.5480028,Medium
+54,Low,Widowed,Full-time,Bachelor,Asian,Male,Canada,359931.0039,562.3765238,27.52361059,17.46500655,Medium
+55,Low,Married,Unemployed,PhD,Black,Male,USA,309754.7442,759.1946856,7.520202876,84.87912528,High
+36,High,Single,Part-time,Bachelor,Asian,Female,Canada,41758.20267,715.7375088,70.77839784,29.81948779,Low
+25,Medium,Divorced,Part-time,High School,Other,Female,USA,109644.7245,565.8712301,48.30118555,59.85643502,High
+65,High,Widowed,Part-time,PhD,Other,Male,India,125919.7934,361.3997612,89.6504251,50.2843062,Medium
+62,High,Divorced,Part-time,Bachelor,White,Female,Australia,416030.591,363.4716276,98.26800487,5.188207759,High
+18,Medium,Widowed,Full-time,Master,Hispanic,Female,UK,232136.5187,740.8467034,39.91093506,94.22337195,Low
+39,High,Married,Self-employed,PhD,White,Male,Australia,243927.2778,591.1648417,41.54390163,52.72259783,Low
+69,Medium,Single,Full-time,PhD,Other,Male,Australia,467511.6302,564.8740271,40.79626022,32.50576434,Medium
+34,Low,Widowed,Unemployed,Associate,Black,Male,India,318905.8585,674.3117627,32.45541097,15.81265696,High
+24,Medium,Widowed,Full-time,Master,Black,Male,Canada,449435.1831,772.3628709,78.16870978,33.85266347,Low
+42,Low,Widowed,Full-time,High School,White,Female,UK,228797.9188,645.8802294,75.89957625,2.051160302,High
+62,High,Widowed,Unemployed,Bachelor,Other,???,Canada,75568.693,719.5663463,47.86448706,36.35581553,Low
+21,High,Single,Part-time,Associate,Black,Male,Australia,465037.8614,720.8987883,4.466121638,53.14859273,Medium
+53,Low,Single,Part-time,Bachelor,Other,Male,USA,229893.8527,495.9437968,30.95593015,87.18662459,Medium
+23,High,Married,Part-time,High School,Black,Male,Australia,91634.07952,450.7457576,29.23030466,68.73744177,High
+48,Medium,Single,Self-employed,High School,Other,Female,Canada,151895.4744,740.6402369,81.10872462,11.15823131,Medium
+36,Low,Widowed,Unemployed,PhD,Asian,Male,Australia,26350.49225,507.4483355,8.757557342,14.77463244,Low
+61,High,Married,Unemployed,High School,Other,Female,USA,234681.9951,796.8348036,80.5675379,42.81233678,Medium
+56,Low,Married,Full-time,Bachelor,Other,Male,India,426710.9578,338.3298832,66.91836522,19.57077516,Low
+44,Medium,Married,Self-employed,Master,White,Male,Canada,466856.6475,332.0196316,73.24414591,2.784977758,Low
+27,Medium,Widowed,Part-time,Master,Asian,Male,Australia,466368.5015,809.8522881,43.22131876,80.50148801,Medium
+43,High,Divorced,Self-employed,PhD,Hispanic,Female,Canada,63489.78279,656.6502028,67.9725796,1.95225707,Low
+36,Medium,Widowed,Unemployed,Bachelor,White,Female,India,191644.8874,508.779646,60.90289447,83.06896052,Low
+56,Low,Single,Unemployed,Bachelor,Hispanic,Female,Australia,15086.15107,715.2832281,76.89801952,14.4103963,High
+20,Medium,Single,Full-time,High School,Black,Male,Australia,427727.5071,669.7797455,44.67698345,97.46784108,High
+62,Low,Widowed,Full-time,Bachelor,Hispanic,Female,Canada,180019.1252,592.1605758,47.28256249,60.38739118,High
+30,Low,Widowed,Unemployed,Associate,Other,Female,Canada,315927.3969,354.3803385,64.35762227,73.49829716,Medium
+67,Medium,Married,Part-time,High School,Hispanic,Male,USA,357734.3206,746.698773,10.80774937,11.0483628,High
+45,High,Widowed,Part-time,Associate,White,Male,India,215492.4902,776.3127549,43.62444484,86.21040735,Low
+37,Medium,Married,Self-employed,PhD,White,Female,USA,153914.7259,394.6927787,97.19508453,83.91923429,Medium
+45,Low,Single,Unemployed,Master,Hispanic,Female,Australia,481144.2421,767.7814086,3.755232006,65.29927315,Medium
+25,Low,Married,Unemployed,PhD,White,Female,Canada,482279.6243,782.8160211,31.60047229,50.22748646,Medium
+58,Medium,Widowed,Part-time,Master,White,Female,Australia,145428.7476,602.1857368,31.41098191,72.14891731,Medium
+56,High,Single,Part-time,PhD,Hispanic,Male,Australia,240332.9233,660.8984699,63.34641192,0.592821534,Low
+18,High,Divorced,Unemployed,Bachelor,Asian,Male,UK,486449.2352,510.230526,10.58003594,59.24407554,Low
+20,Low,Married,Full-time,Associate,Asian,Male,UK,3429.33542,454.9854061,62.85440309,84.74061349,High
+30,Low,Single,Unemployed,Master,Black,Female,Australia,206926.4459,697.0907308,9.504024065,35.68998872,Medium
+45,High,Married,Unemployed,High School,White,Female,Canada,51128.31729,774.031332,9.495364742,10.82893565,High
+66,Medium,Single,Part-time,Associate,Hispanic,Male,Australia,255069.8248,659.7426541,72.81833572,42.08772497,Low
+42,Low,Single,Part-time,High School,White,Male,UK,13310.30732,581.3748359,32.41351738,72.71044491,Medium
+50,Low,Married,Full-time,Associate,Other,Female,Canada,204042.3173,387.4086218,97.74229477,10.73012104,Low
+55,High,Divorced,Full-time,Associate,White,Female,Australia,111128.8383,329.4022919,3.735293644,20.60485602,High
+23,Medium,Single,Self-employed,PhD,White,Male,India,267120.8729,545.1304846,44.51066637,14.75518468,Low
+61,High,Single,Unemployed,Master,Asian,Male,India,498000.8309,327.14226,11.31359377,79.69477556,Medium
+62,Medium,Single,Part-time,Master,Hispanic,Male,Australia,400467.5165,613.1340475,35.13789668,6.289262245,Medium
+49,Medium,Divorced,Full-time,Associate,White,Female,Canada,422975.4037,510.5010552,99.82224506,68.65865021,High
+62,Medium,Divorced,Self-employed,Bachelor,Asian,Female,Australia,317997.2287,716.4540158,88.88425117,36.64569208,Medium
+64,Low,Widowed,Self-employed,Bachelor,Black,Female,Australia,21738.36429,468.1066733,4.832440886,75.57912429,Low
+38,High,Married,Part-time,High School,Asian,Female,UK,104192.0403,626.1404855,56.32558438,96.43834188,Low
+33,High,Divorced,Part-time,High School,Asian,Female,India,462607.2137,595.725937,64.78223048,11.45452996,Low
+38,Medium,Married,Self-employed,PhD,Asian,Female,UK,183690.4458,302.591834,20.9534624,31.43850411,Low
+28,Low,Widowed,Full-time,Associate,White,Male,UK,52714.72651,339.814169,14.51055734,81.01254277,High
+54,Low,Married,Self-employed,High School,White,Male,Australia,351500.2776,459.7025169,90.43811347,26.61583861,Low
+53,High,Divorced,Unemployed,High School,Black,Female,UK,150429.4042,785.2292946,96.88164415,21.5120597,High
+52,Low,Married,Unemployed,Associate,Other,Male,India,135159.5995,380.8582252,99.18928573,82.53779779,Low
+36,Low,Divorced,Part-time,PhD,Other,Female,UK,498990.7503,690.9918818,78.97617737,98.7082364,High
+37,Medium,Married,Full-time,High School,Other,Male,India,429211.3236,835.3516114,66.35020694,55.68805901,Low
+35,Low,Divorced,Full-time,PhD,Black,Female,UK,204560.9714,734.812154,34.57302522,27.80487483,Low
+64,Medium,Divorced,Unemployed,Master,Other,Male,India,490150.3427,433.6199489,17.13983123,39.85659616,High
+58,High,Married,Self-employed,PhD,Other,Male,UK,325406.4985,799.6008932,7.898059937,17.01303274,Medium
+66,Low,Widowed,Part-time,Bachelor,Asian,Female,UK,371269.2035,351.2089361,69.32974686,76.18872789,Medium
+31,High,Single,Self-employed,Bachelor,White,Female,Canada,16725.0085,557.478068,78.47234152,77.34740178,Medium
+32,High,Widowed,Self-employed,PhD,White,Male,India,61681.02441,788.1480492,82.64536525,87.51209924,High
+48,Low,Married,Self-employed,Bachelor,Asian,Male,India,316909.4781,652.6961401,91.37650033,2.66025636,Medium
+18,Low,Widowed,Full-time,Master,Asian,Female,India,449612.9673,527.5045106,87.99295636,56.19813416,Medium
+20,High,Divorced,Unemployed,Associate,Asian,Male,USA,312248.1193,461.0470767,99.97412723,21.42554343,High
+33,Low,Single,Full-time,Bachelor,White,Female,UK,67878.42227,506.3046729,24.4064011,34.08830155,Medium
+40,Medium,Married,Unemployed,Bachelor,Other,Female,India,58764.26308,579.9179796,76.33076152,78.49556153,Medium
+28,Medium,Married,Part-time,PhD,Asian,Male,USA,422248.762,475.4741614,58.64595124,19.20336524,Medium
+29,Low,Married,Part-time,Master,Black,Female,Canada,70511.86702,832.9323241,26.12451325,63.83417506,High
+27,High,Single,Self-employed,Associate,Asian,Male,India,260595.7483,813.1927092,98.19053223,65.45661912,High
+49,Low,Divorced,Unemployed,PhD,Hispanic,Male,India,19519.54666,778.8693075,89.78981048,95.40939149,Medium
+33,Low,Married,Unemployed,PhD,Asian,Female,USA,41254.21393,532.0064095,12.85156684,77.51609285,Medium
+25,High,Widowed,Unemployed,Master,White,Male,UK,336501.7856,680.2159731,2.615834232,80.36351472,High
+55,High,Married,Self-employed,Associate,Asian,Female,Canada,344901.5238,796.5561189,68.83307623,53.1600749,Medium
+29,Medium,Married,Self-employed,Master,Hispanic,Female,India,171393.2339,767.7362182,60.41306289,18.67808072,High
+41,High,Married,Part-time,Associate,Black,Female,UK,108589.2729,527.8798577,93.58156241,42.55633657,Medium
+45,Medium,Married,Full-time,Master,Other,Male,Canada,407041.4251,361.8123271,23.40052872,54.94895735,High
+25,High,Divorced,Unemployed,PhD,Asian,Female,Australia,109334.5115,341.5967001,8.438794789,67.84192517,Low
+45,Low,Widowed,Unemployed,PhD,Hispanic,Male,Australia,271471.5078,617.3852249,25.92153338,60.77091118,Low
+53,Medium,Divorced,Full-time,High School,Hispanic,???,Canada,484136.2116,653.4453644,1.892764051,39.39778289,High
+43,Medium,Widowed,Unemployed,Bachelor,Black,Female,USA,74778.36649,767.4134325,3.589275119,26.5313107,Low
+25,Medium,Married,Self-employed,Master,White,Female,Canada,470497.2575,460.8832612,91.48578059,16.82308432,Medium
+67,Low,Single,Self-employed,High School,Asian,Male,Canada,92263.63348,392.1087698,35.20165825,69.38453863,High
+45,Low,Divorced,Unemployed,Bachelor,Hispanic,Male,USA,284154.1608,508.4532082,41.0809001,64.53986743,High
+45,Low,Single,Self-employed,Master,Black,Female,USA,189126.8483,494.466318,1.837165454,68.73724658,Medium
+54,Low,Divorced,Self-employed,Associate,Other,Female,UK,482499.3721,372.8579247,27.05217802,37.25274528,Medium
+58,Low,Married,Unemployed,Bachelor,Hispanic,Male,UK,137497.4725,669.7554589,80.47259837,26.24078226,High
+53,Medium,Divorced,Part-time,PhD,Black,Male,USA,200429.343,579.7805674,61.54909597,75.97213287,Medium
+44,Low,Married,Full-time,High School,White,Male,Australia,491447.1988,696.6175159,75.37806011,77.36473951,High
+34,Medium,Divorced,Self-employed,Bachelor,White,Female,Australia,268698.7252,493.9801161,44.72137408,45.5616374,Medium
+26,Low,Married,Part-time,Bachelor,Hispanic,Male,Canada,251812.4277,479.1362164,30.97292218,61.19040848,High
+50,High,Married,Self-employed,PhD,Hispanic,Female,India,129631.4656,559.9167192,48.28100933,37.35196642,Medium
+37,Medium,Widowed,Self-employed,Master,Asian,Male,Canada,350980.4166,782.57404,32.30710684,70.19472001,Medium
+30,High,Married,Full-time,Associate,Black,Female,Canada,8172.102937,322.1547187, ,83.57215966,Low
+45,Medium,Widowed,Self-employed,PhD,Hispanic,Female,India,25706.80222,742.6580495,29.76737156, ,Low
+65,High,Married,Full-time,Associate,Asian,Female,USA,300079.935, ,65.97636405,51.25826268,Low
+46,Low,Single,Full-time,Master,Asian,Male,Australia,171495.6123,770.0404642,13.69822223,45.86579595,Medium
+30,Low,Married,Full-time,Bachelor,Hispanic,Male,Canada,476704.8697,741.2116549,68.68664937,64.2319651,High
+63,Low,Single,Part-time,Associate,White,Male,India,451692.1547,491.8186861,91.32997116,67.98108916,Medium
+52,Medium,Single,Unemployed,High School,Black,Female,UK,357139.4231,681.6320944,60.85831546,55.87294435,Low
+23,High,Married,Part-time, ,Black,Female,Canada,409254.645,387.7980162, ,62.49422751,Medium
+35,Low,Single,Unemployed,PhD,White,Male,Australia,333998.593,792.9548537,96.1118268,9.658868249,Low
+68,High,Widowed,Unemployed,Master,Hispanic,Female,USA,63665.46925,522.4700854,  ,95.17655161,Low
+22,High,Divorced,Full-time, ,Black,Female,Canada,383006.1415,550.5940884,25.95504333,79.07730637,High
+64,Low,Married,Self-employed,PhD,Hispanic,Female,Canada,105885.7924,688.1674781,29.23910238, ,High
+42,Low,Single,Full-time,PhD,Hispanic,Male,India,162397.9847,751.4621302,70.53066425,56.2812611,Low
+19,High,Married, ,High School, ,Female,UK,409797.8718, ,73.54365939,4.732453014,Low
+27,Low,Widowed,Unemployed,High School,White,Male,UK,268726.2786,663.7425769,30.34962318, ,Medium
+47,Low,Married,Full-time,PhD,Hispanic,Male,USA,430110.4164,515.5989241,34.53439779,25.07983351,Low
+67,Low,Married,Self-employed,High School,Other,Male,Australia,107304.6246,502.7866082,99.10565087,68.97016424,Medium
+62,Medium,Single,Part-time,Master,White,Male,USA,304281.4409,679.5142032,10.19525496,85.21477478,Low
+22,High,Widowed,Self-employed,PhD,Black,Male,Canada,42811.6953,512.9508008,40.46450284,55.918588,High
+50,High,Divorced,Full-time,High School,Asian,Female,Canada,321887.4358,490.3596751,6.24475312,53.21327396,High
+18,Medium,Divorced,Part-time,Associate,Black,Male,UK,381504.4848,759.7386245,82.1078362,40.23095338,Low
+35,High,Single,Self-employed,PhD,Black,Male,Australia,292880.5161,355.7018681,9.234583895,16.1597956,Medium
+49,Low,Married,Self-employed,PhD,White,Male,India,133849.5192,671.7409426,67.40073565,11.83541013,Medium
+64,High,Single,Self-employed,Master,Black,Female,Australia,16639.99176,436.7989666,5.6483424,76.06797612,Medium
+66,Low,Single,Self-employed,Bachelor,Hispanic,Female,Canada,60604.9931,308.524033,67.28550378,92.75035513,Low
+28,Medium,Single,Self-employed,Bachelor,Black,Female,India,311529.1866,391.7203479,84.30369469,45.82832164,Low
+38,Low,Married,Part-time,Master,Asian,Female,Australia,467275.6882,633.6638414,39.88215269,65.94456587,High
+43,High,Widowed,Unemployed,Master,Asian,Male,Australia,104060.6676,690.0199553,52.21264934,91.44576509,High
+42,High,Single, ,Master,Other,Male,India,367778.0484,311.581781,40.1541738,9.011363293,Low
+39,High,Married,Part-time,Bachelor,Asian,Female,Canada,433359.0806,320.0339938,30.04887586,77.04814531,High
+44,Medium, ,Part-time,Master,Black,Female,Australia,260920.207,796.3981632,80.32634006,61.68168844,Medium
+66,Medium,Single,Unemployed,High School,Asian, ,India,334963.6321,340.3182,27.20025737,59.86371788,Medium
+30,High,Divorced,Full-time,PhD,White,Female,Canada, ,791.8001872,72.29434244,29.25404285,Low
+50,Low,Widowed,Unemployed,  ,Asian,Male,India,131076.9037,425.4912526,20.61970793,68.38933548,Medium
+51,Medium, ,Part-time,Associate,Hispanic,Female,India,149150.9415, ,24.98537961,79.47977548,Low
+58,High,Widowed,Self-employed,Associate,White,Female,Australia,1313.130798,470.3532869,33.64611626,11.28581649,Medium
+52,High,Widowed, ,PhD,Other,Female,Canada,481583.9713,772.3136141,58.91563774,53.3521431,Low
+18,Medium,Widowed,Part-time,High School,Hispanic,Female,Australia,458854.9024,685.250176, ,10.1265181,Medium
+38,Medium,Widowed, ,Bachelor,Black,Female,USA,382519.5636,520.9974022,74.51448098,87.25740193,Medium
+65,Medium,Widowed,Part-time,Bachelor,Black,Female,USA,40458.93447,341.9663498,21.35673003,50.76367227,High
+23,Low,Widowed,Self-employed, ,Black,Female,Canada,224303.942,702.9851011,1.067228785, ,High
+45,Low,Single,Unemployed,Bachelor,Hispanic,Male,India,51843.98523,639.2866158,77.65574718,36.80856377,High
+34,High,Divorced,Full-time,Master, ,Male,Australia,    ,301.6014448, , ,High
+22,Medium,Married,Full-time,PhD,Hispanic,Male,Australia,308475.2996,305.1809208,5.948016311,4.149930439,High
+48,Low,Widowed,Unemployed,PhD,White,Male,Canada,480453.8791,744.8361353,61.09075222,28.15096208,High
+22,Medium,Married,Unemployed,High School,White,Male,Canada,451531.1437,442.6698563,37.82067839,24.42337004,Low
+55,High,Single,Part-time,Bachelor,Black,Male,USA,348680.6527,649.8735173,79.38956552,56.0351974,Low
+20,Low,Widowed,Part-time,Associate,Asian,Female,UK,49223.6515,549.8179309,87.44145542,2.173883806,High
+40,Low,Divorced,Part-time,Associate,Black,Female,Canada,137807.8548,774.886508,85.10037668,52.05705443,Low
+54,Low,Married,Self-employed,Bachelor,Other,Male,UK,160708.3067,804.3286122,77.72042474,39.1771742,High
+54,High,Widowed,Part-time,Associate,White,Female,Canada,381811.8788,848.244242,26.90522287,57.71222699,Low
+27,Medium,Single,Unemployed,High School,Hispanic,Male,India,401322.3404,384.5262747,81.18896436,70.24175282,Medium
+27,Low,Divorced,Full-time,High School,White,Female,India,193167.9554,774.6302256,53.34784759,63.40919451,Low
+36,High,Married,Self-employed,Bachelor,Hispanic,Female,USA,209524.1143,446.3117572,5.275661483,98.46443694,Low
+34,Medium,Married,Part-time,Associate,Other,Female,USA,23210.0106,624.9487312,45.69388499,13.82653439,Low
+38,High,Widowed,Self-employed,High School,Other,Female,UK,145279.2225,578.1750586,94.2157917,42.97370089,Medium
+31,Medium,Divorced,Self-employed,High School,White,Female,Canada,226191.3034,309.8934724,88.78593497,42.48307366,High
+26,High,Divorced,Part-time,Master,Hispanic,Female,Australia,59374.54015,813.0242039,10.2264281,41.70532037,Low
+63,Medium,Divorced,Self-employed,Master,Other,Male,USA,227180.4629,343.0798803,74.41266857,66.3798392,Low
+18,Low,Divorced,Full-time,High School,Black,Male,Australia,426734.7303,678.5204057,80.5792866,48.98280605,Medium
+68,Medium,Single,Unemployed,Bachelor,Black,Female,Australia,291079.1888,731.7537599,27.13881882,51.74325598,High
+62,High,Divorced,Unemployed,PhD,Hispanic,Male,Canada,40385.99766,737.408317,47.16085707,43.23559921,Low
+30,High,Married,Full-time,PhD,White,Female,UK,96643.9881,374.5219854,71.09879415,99.1699461,Medium
+21,Medium,Married,Self-employed,High School,Other,Male,Canada,237797.6307,546.1634728,43.90414888,92.75613488,High
+18,Low,Single,Part-time,High School,White,Female,USA,181382.0878,756.1858787,11.27969189,30.77241894,High
+66,Low,Married,Self-employed,High School,Black,Male,Australia,180004.7828,466.4735657,70.58824447,11.15939248,Low
+57,Medium,Married,Full-time,Bachelor,Other,Female,Canada,265104.4566,557.2617715,91.16386897,83.9764724,Low
+49,Medium,Divorced,Self-employed,Master,White,Male,Canada,292613.5649,450.036641,65.24847284,99.71702514,Low
+51,High,Married,Unemployed,High School,Asian,Female,Canada,398633.9236,554.9532798,77.38007486,29.2608894,Low
+45,Low,Single,Self-employed,High School,Hispanic,Male,USA,171142.3152,788.3108574,35.83625357,35.77849258,Medium
+48,Medium,Divorced,Full-time,Associate,Hispanic,Female,UK,402927.6752,550.3183271,18.31982451,94.16331815,Medium
+25,Low,Widowed,Unemployed,Bachelor,Asian,Female,Canada,169967.0033,605.7516094,64.27736616,71.1129518,Low
+56,Medium,Divorced,Self-employed,High School,Black,Female,USA,28661.06148,522.1869558,32.77712058,29.56383318,High
+43,Medium,Single,Self-employed,Associate,Other,Male,Australia,277539.6379,553.0644508,86.0073519,58.10464913,Low
+51,Low,Divorced,Unemployed,PhD,Hispanic,Male,India,294363.2601,308.3458095,12.262805,94.42295794,High
+20,Medium,Divorced,Part-time,High School,Asian,Male,USA,467335.5826,456.0600305,43.34636997,81.18131069,High
+67,Medium,Single,Unemployed,High School,Asian,Female,India,363304.6017,540.119947,39.67276005,74.18327137,High
+29,High,Divorced,Part-time,Associate,Black,Male,Canada,458968.5536,648.5883368,93.80538536,73.69963117,Medium
+18,Medium,Single,Full-time,Bachelor,Black,Female,Canada,454265.2579,547.5285618,15.31348006,17.80203243,High
+61,Medium,Single,Full-time,High School,White,Male,USA,302682.481,485.7993738,0.984682501,82.46812392,High
+22,Medium,Widowed,Unemployed,PhD,Hispanic,Male,India,264353.2706,513.4543044,23.80852128,27.61186324,Medium
+47,High,Married,Unemployed,High School,White,Male,Canada,279163.0426,433.2613311,82.02768598,93.03666579,High
+47,Low,Married,Full-time,PhD,Asian,Male,Australia,489187.073,808.4718555,20.9321816,36.4639991,High
+34,High,Divorced,Part-time,Master,Other,Female,UK,386810.6782,586.9587742,24.08780637,85.7660397,Low
+65,High,Divorced,Full-time,Master,Other,Male,UK,54026.68649,307.3751996,12.98988045,26.62334945,High
+64,Low,Widowed,Unemployed,PhD,Black,Male,Canada,389435.775,310.6954421,71.54362033,51.45269366,High
+40,High,Widowed,Full-time,Bachelor,Other,Female,India,86098.4864,835.1288992,6.917419051,10.68852955,High
+32,Low,Widowed,Unemployed,High School,Other,Female,Canada,224227.924,421.7979903,33.12083023,66.0118903,High
+54,High,Single,Unemployed,High School,Other,Male,India,106019.3764,743.0845588,28.24987266,83.60792752,High
+38,Low,Widowed,Full-time,Master,Asian,Male,Australia,345101.9497,332.0514159,55.51597298,71.84472813,Medium
+31,Medium,Widowed,Part-time,PhD,Other,Female,India,438777.5584,806.6395052,73.0416265,52.32585129,High
+19,High,Divorced,Self-employed,High School,Other,Female,Canada,145890.5808,780.929352,53.28764347,4.51158786,High
+28,High,Widowed,Full-time,High School,Other,Female,Australia,41923.35986,614.1012393,93.1025993,93.34410072,Medium
+68,High,Single,Self-employed,Bachelor,White,Male,USA,149948.0559,304.9492615,95.14426389,70.54895486,Medium
+56,High,Single,Full-time,Associate,Asian,Male,UK,336508.5671,441.7959807,36.14653285,74.58642384,High
+55,Medium,Divorced,Self-employed,Master,Black,Male,Canada,165051.3036,523.7524561,77.76803763,79.46805755,High
+51,High,Widowed,Part-time,Master,White,Female,Canada,139777.9716,553.0352642,73.88013833,74.77434259,High
+55,Medium,Widowed,Part-time,Associate,Hispanic,Female,Canada,93033.1601,463.7233172,89.29645917,44.11161641,Low
+67,Medium,Single,Full-time,High School,Asian,Female,Australia,249260.697,318.1213275,44.79436402,73.36218293,Low
+51,Medium,Widowed,Unemployed,Bachelor,Asian,Male,USA,138698.4653,624.5700733,53.04731872,62.50267878,High
+35,Medium,Widowed,Self-employed,Bachelor,Hispanic,Female,India,365774.1642,588.2850672,41.57743136,85.40163337,Medium
+47,Low,Widowed,Unemployed,Master,Hispanic,Male,USA,39234.57859,455.6503495,85.03769193,80.24598153,High
+32,Low,Married,Unemployed,Bachelor,Hispanic,Female,Australia,332352.4835,320.8867822,22.97023154,4.137438247,Medium
+44,High,Divorced,Unemployed,Associate,Black,Male,Canada,119542.4473,847.026803,23.97090782,37.88870903,Medium
+68,Low,Married,Part-time,High School,Other,Male,UK,245150.3513,565.0924028,37.26051036,3.471615218,Medium
+51,Low,Divorced,Full-time,Associate,Asian,Female,Canada,143758.8711,715.802333,23.03428321,10.20749248,High
+69,High,Single,Full-time,PhD,Other,Male,India,361661.5693,548.7727193,56.10068364,60.1410722,High
+55,High,Widowed,Part-time,Master,Other,Female,UK,472708.2131,323.74366,13.44901065,87.38218212,Medium
+50,High,Divorced,Part-time,Bachelor,Hispanic,Male,Canada,458621.313,470.2804098,32.01862194,11.98247587,Low
+41,Low,Married,Full-time,PhD,Black,Female,UK,292129.6814,476.0605776,91.34446985,45.10892875,Low
+32,Low,Widowed,Unemployed,Bachelor,White,Female,USA,231842.5413,761.0940972,40.92254802,91.08789048,Low
+47,High,Single,Self-employed,High School,Black,Male,Australia,409331.9542,659.8264879,74.82337165,81.43009837,Medium
+59,Medium,Divorced,Self-employed,High School,Other,Female,Canada,341979.855,451.486447,11.34621917,51.96678965,High
+68,High,Divorced,Self-employed,High School,Black,Male,India,92598.49299,832.2569751,24.75645081,77.15714393,Medium
+34,Medium,Divorced,Unemployed,Bachelor,Hispanic,Female,USA,410638.6876,476.8480078,80.73456212,52.2693774,Low
+22,Medium,Widowed,Full-time,PhD,White,Female,Canada,215013.3103,849.0287142,76.29929363,15.80923373,High
+46,High,Married,Part-time,High School,Hispanic,Female,USA,95303.84433,847.8900312,38.61559186,12.47361132,Medium
+21,High,Married,Full-time,PhD,White,Female,India,141616.8778,405.1657848,95.4396902,18.83682321,Medium
+27,High,Divorced,Unemployed,Bachelor,Other,Male,Canada,134495.9881,472.0076139,91.06430158,35.0922095,Low
+34,Low,Single,Part-time,PhD,White,Female,India,260084.2803,567.3243092,96.23007491,93.05292677,Medium
+27,Medium,Single,Unemployed,Bachelor,White,Female,UK,117950.6752,665.2553691,42.79146902,79.96784137,High
+34,Low,Married,Self-employed,Bachelor,White,Male,India,62659.67721,590.426097,19.74735837,43.28015612,Low
+37,Low,Single,Self-employed,Master,Black,Male,UK,62721.73446,833.192808,62.66586391,49.30767098,Low
+41,High,Married,Unemployed,Bachelor,Black,Male,Canada,292054.8224,698.1940403,68.47731583,26.56094577,High
+22,Low,Divorced,Part-time,Bachelor,Other,Male,UK,367644.8851,416.6246672,12.54417845,70.43529565,Low
+51,High,Married,Part-time,Associate,White,Male,Canada,161444.9714,357.8036526,78.64830343,80.27656715,Medium
+23,Medium,Married,Full-time,High School,Asian,Male,Canada,18290.7042,678.6207099,1.806021976,23.89046957,Medium
+19,High,Divorced,Self-employed,Master,Other,Female,Australia,64485.21858,387.1488421,48.27283875,4.182162379,Low
+30,Low,Single,Full-time,Master,White,Male,Canada,457432.5856,733.2222622,33.10162595,62.38889432,High
+60,Low,Married,Full-time,Master,White,Female,UK,247278.2861,471.070167,74.03030599,56.25121191,Medium
+60,High,Married,Unemployed,Associate,Black,Male,Australia,227332.832,479.7912947,31.27607274,40.2131155,High
+65,High,Divorced,Unemployed,Bachelor,Other,Female,Australia,19986.53998,305.9391158,82.68071128,64.38939418,Medium
+28,Low,Single,Full-time,High School,White,Female,Canada,364589.8741,685.5561969,59.49534888,55.0613298,Medium
+68,Medium,Married,Self-employed,PhD,White,Female,India,264505.9724,362.2983642,79.38933618,25.05815766,Low
+64,Medium,Divorced,Unemployed,Bachelor,Other,Male,India,101838.3871,725.0843176,98.93406378,39.77289756,Low
+40,High,Married,Full-time,Associate,Asian,Male,Australia,55926.80633,570.5273021,67.91583457,42.81135697,High
+33,Medium,Widowed,Full-time,Bachelor,Other,Male,Canada,192310.544,731.3538982,98.49503164,88.02479945,Low
+48,Low,Divorced,Full-time,Bachelor,Other,Male,India,418743.8201,621.1595966,2.883632692,96.09041541,Medium
+28,High,Single,Full-time,Associate,Asian,Female,Canada,432781.985,345.3382996,33.81399885,89.30013624,Medium
+33,Low,Single,Full-time,Master,Other,Male,Canada,301820.3438,721.1087852,10.78532646,71.91780241,High
+25,Low,Single,Full-time,Master,White,Female,Australia,364040.6772,338.3897167,26.23049314,58.49927336,High
+21,Medium,Single,Unemployed,High School,Other,Female,Australia,58462.73791,563.2859463,83.88878991,68.92616355,Medium
+57,High,Married,Self-employed,High School,Asian,Male,USA,294474.9067,394.7920678,3.232326533,93.91092207,Low
+21,High,Married,Full-time,Master,Hispanic,Male,India,333815.886,713.7843479,52.01829357,24.99987352,Low
+42,Medium,Single,Part-time,PhD,Other,Male,India,101155.7086,801.3751753,56.71287075,53.51205077,High
+20,Low,Single,Unemployed,Bachelor,Black,Female,India,440197.2117,604.7693898,56.11511467,68.9608019,High
+49,Low,Single,Unemployed,PhD,White,Male,UK,98303.37202,589.9310119,47.52970738,67.92470013,Medium
+20,Low,Married,Full-time,Bachelor,White,Female,Canada,157425.2026,720.179758,79.06029648,25.22789596,Medium
+44,Low,Single,Unemployed,Master,Black,Male,Australia,310657.8667,302.7933471,13.35430895,58.67315274,High
+46,High,Single,Full-time,High School,Black,Female,India,319536.6825,804.7672534,31.05770156,79.59131424,Medium
+49,High,Widowed,Self-employed,High School,Other,Male,USA,349992.9858,408.5968494,61.57260534,47.50789801,High
+67,Medium,Widowed,Self-employed,PhD,Black,Male,India,56893.84482,841.2653861,69.09513663,79.32980767,High
+68,Medium,Single,Unemployed,High School,Hispanic,Female,Canada,424882.7505,704.9396714,40.41484318,35.98825978,Low
+36,High,Divorced,Unemployed,Master,Asian,Male,Canada,266890.719,725.8381312,87.53712633,93.87601272,High
+38,High,Single,Part-time,PhD,Black,Male,Australia,236189.5753,660.9116392,41.54933967,53.39284405,Medium
+22,Low,Widowed,Unemployed,Bachelor,Black,Male,UK,490567.7146,559.4147505,40.27761343,59.59479508,Low
+35,Low,Divorced,Part-time,High School,Hispanic,Male,Australia,370448.7702,614.3952313,3.620726149,3.13615688,Low
+45,Medium,Divorced,Self-employed,Associate,White,Male,India,59885.00728,325.5215873,55.11413362,17.02691371,Medium
+59,High,Single,Self-employed,High School,White,Male,USA,378513.0444,643.1777302,70.86808385,63.29338805,Medium
+39,Medium,Widowed,Full-time,Bachelor,Other,Male,Australia,48529.21805,644.3539561,11.44381635,41.98703718,Medium
+38,High,Widowed,Self-employed,PhD,Hispanic,Female,UK,14707.81069,790.1604386,30.54327661,50.81637905,High
+23,Low,Divorced,Part-time,Bachelor,Asian,Female,Australia,202409.3217,578.1109966,78.12569538,6.297140873,Low
+18,Medium,Single,Unemployed,Associate,Asian,Male,Canada,496795.5082,342.4294057,36.59194354,83.41352384,High
+22,Medium,Married,Full-time,Master,Hispanic,Male,India,88267.08416,468.4077563,24.1602462,78.45056023,High
+58,High,Married,Part-time,High School,Asian,Male,India,336649.5274,660.5961767,67.22006636,18.53539757,High
+29,Low,Widowed,Unemployed,PhD,White,Female,India,87524.63704,431.5923745,19.67587777,63.43293573,High
+43,Medium,Married,Full-time,Master,Asian,Female,India,362668.7005,454.290302,89.56529196,81.83152117,Low
+63,Low,Widowed,Self-employed,Bachelor,Asian,Male,India,253171.4805,751.257959,10.5598396,64.08541364,Low
+51,Medium,Widowed,Part-time,PhD,Hispanic,Female,India,340305.8833,621.3758525,70.65498023,31.03980953,High
+66,Low,Widowed,Unemployed,Master,Hispanic,Male,USA,102233.7148,579.6900875,49.95487013,65.61111505,Medium
+31,High,Married,Full-time,PhD,Asian,Male,UK,373068.5379,475.1485817,86.99295624,21.04617477,Low
+43,Medium,Widowed,Full-time,Associate,Black,Male,India,497813.9108,702.0104198,12.6195091,31.82549973,High
+62,Medium,Divorced,Self-employed,Associate,Hispanic,Male,UK,333159.5998,458.245139,67.78949185,24.00696531,Medium
+44,Low,Single,Unemployed,High School,Other,Female,India,247246.519,705.3849347,57.20546392,55.69251024,Medium
+26,Low,Single,Self-employed,High School,Other,Female,Australia,461663.8203,338.5558141,48.00901422,10.82266468,High
+43,Medium,Widowed,Self-employed,Associate,White,Male,India,8910.069274,775.4977379,49.14072634,93.33103803,Low
+64,High,Single,Unemployed,PhD,Asian,Female,Canada,365231.8361,574.7615549,72.19769618,33.35123537,Medium
+39,Low,Married,Unemployed,Associate,Black,Female,USA,444484.5119,541.1794092,93.77416549,21.89701271,Low
+64,Low,Married,Unemployed,High School,White,Male,Australia,31775.61723,636.0628763,9.125165912,49.65498136,Low
+47,Low,Single,Part-time,Associate,Asian,Female,Australia,225582.021,643.3056401,1.950264761,27.69978185,Medium
+60,Medium,Married,Unemployed,Associate,Hispanic,Male,Canada,103155.0075,372.6193473,80.57047925,53.49040864,High
+65,Medium,Single,Full-time,PhD,Other,Male,India,283692.5646,715.9284744,10.81693876,34.85091498,Medium
+34,Medium,Single,Self-employed,Master,Black,Male,USA,325121.9363,451.7605639,98.66967961,13.20668108,Medium
+43,Medium,Single,Part-time,High School,Other,Male,Australia,152008.9683,797.7290341,61.9348249,26.5895242,Low
+53,High,Widowed,Unemployed,PhD,Hispanic,Female,USA,230530.8532,749.8178649,65.08663953,43.8439845,High
+18,High,Single,Part-time,Associate,Asian,Male,Australia,140390.4032,490.4463228,19.88917029,3.029322648,Low
+25,Medium,Widowed,Unemployed,Associate,Hispanic,Female,India,185326.1911,744.2566113,24.03123103,77.0642527,Medium
+66,High,Single,Part-time,Master,Hispanic,Male,Australia,80610.43839,496.0147746,65.93503031,62.18245646,High
+52,Low,Single,Self-employed,High School,Other,Male,Australia,442894.1623,355.5212249,90.97268379,60.13596073,High
+69,Low,Single,Self-employed,High School,Black,Female,UK,5995.194869,829.0385313,98.23905545,54.60499319,High
+32,Low,Married,Full-time,Bachelor,Hispanic,Male,India,441322.184,658.9311084,19.80309466,59.03131723,High
+64,Medium,Widowed,Full-time,High School,Other,Female,Canada,286267.7603,550.8547397,13.41196227,93.46519527,High
+39,Low,Widowed,Unemployed,Master,Black,Female,Canada,166497.2642,518.7753433,5.640135776,0.856921081,Medium
+31,High,Single,Self-employed,Bachelor,Asian,Male,India,361805.5056,478.5879338,86.82970182,4.779970966,Medium
+43,Medium,Single,Part-time,Bachelor,Asian,Male,Canada,254368.3238,839.7961775,29.47148469,19.14934099,Medium
+45,High,Married,Part-time,Associate,White,Male,India,250055.2204,374.1109958,0.181203387,16.730138,Low
+40,Low,Married,Part-time,Associate,Other,Male,Canada,55960.99918,473.1427824,22.38180861,18.11944595,High
+31,Low,Married,Full-time,High School,Black,Male,UK,195368.4969,567.0237022,34.04410801,67.19438858,High
+41,Low,Widowed,Part-time,Bachelor,Hispanic,Male,Canada,121291.1086,562.8997498,99.09861695,45.94833011,Medium
+19,Medium,Widowed,Full-time,Associate,Asian,Female,Australia,8832.256893,559.2515664,52.35415939,99.17788783,High
+62,High,Widowed,Full-time,Master,Black,Female,India,180689.7158,396.6810987,20.47139476,22.68859148,Low
+43,Medium,Single,Unemployed,Associate,Other,Male,USA,45821.24258,379.7128899,33.48183447,31.0830101,High
+31,Medium,Widowed,Part-time,Associate,White,Female,USA,129158.1888,440.1221725,33.03076876,98.42407168,High
+68,Low,Divorced,Part-time,Bachelor,Asian,Female,India,47165.79397,802.9893846,1.972574646,83.17581408,Low
+24,Medium,Divorced,Self-employed,Bachelor,Black,Male,UK,51369.87115,362.1791323,13.51830542,46.97992207,Medium
+20,Medium,Married,Unemployed,PhD,Black,Male,Canada,100306.6359,716.5838069,69.51964597,55.45968855,Medium
+64,Low,Widowed,Self-employed,Master,Black,Female,UK,499924.773,716.6516162,12.02509866,84.31779207,High
+40,Medium,Divorced,Unemployed,Bachelor,Other,Male,USA,2089.887286,745.3737221,23.07342766,48.0980246,Low
+63,Low,Married,Part-time,High School,Other,Female,India,319697.6454,787.6385189,35.07372984,20.60237236,Medium
+60,Low,Widowed,Full-time,Master,Other,Male,India,71480.60532,444.6698976,75.77349445,82.84445386,Medium
+64,Low,Single,Full-time,Master,Hispanic,Female,UK,460393.4402,423.5077081,58.24009649,53.77724913,Medium
+62,Low,Divorced,Full-time,Bachelor,Black,Female,UK,47722.81377,556.0281166,68.8999985,15.30425972,High
+35,Medium,Single,Full-time,Master,Asian,Female,Canada,477576.5304,445.7990428,56.70123254,50.55858312,Low
+55,Low,Widowed,Full-time,Bachelor,Other,Female,Australia,305852.2674,703.8704939,68.35924252,41.32033806,High
